@@ -3,12 +3,13 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.1</version>
+    <version>1.2</version>
                               
     <changes>
-Версія #1.0.0, від 10.09.2025:
+Версія #1.1.0, від 11.09.2025:
                   • Оновлено для патчу 2.0.0.0.  
-                  1) Оновлено приціл " Новий приціл"
+                  1) Оновлено приціли " БедБой, Тайпан"
+                     Стара версія та нова
                   2) Зроблені ЧЕК бокси на тактик та топографія
                   3) Деякі моди ще не оновлені, але згодом будуть 
                      оновлені
@@ -36,12 +37,13 @@
 
   <en>
     <enabled>true</enabled>
-    <version>5.8</version>
+    <version>1.2</version>
     <changes>
-Version #1.0.0, date 10.09.2025:
+Version #1.1.0, date 11.09.2025:
  • updated: patch 2.0.0.0.
     • Updated:
-                             1) Updated the "New Sight" sight
+                             1) Updated sights "BadBoy, Taipan"
+                                Old version and new
                              2) Made CHECK boxes for tactics and topography
                              3) Some mods have not been updated yet, but will be 
                                 updated later
@@ -63,13 +65,14 @@ Version #1.0.0, date 10.09.2025:
 
   <ru>
     <enabled>true</enabled>
-    <version>5.8</version>
+    <version>1.2</version>
     <changes>
-Версия #1.0.0, от 10.09.2025:
+Версия #1.1.0, от 11.09.2025:
    • Сборка обновлена для 2.0.0.0.
                                 
 
-                               1) Обновлен прицел "Новый прицел"
+                               1) Обновлены прицелы "БедБой, Тайпан"
+                                    Старая версия и новая
                                2) Сделанные ЧЭК боксы на тактик и топография
                                3) Некоторые моды еще не обновлены, но впоследствии будут 
                                   обновлены                
