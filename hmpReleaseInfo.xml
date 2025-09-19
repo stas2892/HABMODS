@@ -3,21 +3,17 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.2</version>
+    <version>1.0.13</version>
                               
     <changes>
-Версія #1.1.0, від 10.09.2025:
-                  • Оновлено для патчу 2.0.0.0.  
-                  1) Оновлено приціли " БедБой, Тайпан"
-                     Стара версія та нова
-                  2) Зроблені ЧЕК бокси на тактик та топографія
-                  3) Деякі моди ще не оновлені, але згодом будуть 
-                     оновлені
-                  4) Оновлено відмітку в гаражі
+Версія #1.1.0, від 19.09.2025: 
+                  • Оновлено для патчу 2.0.0.1.  
                   
-
-                       
-                     
+ 
+                  1) Обновленные фишки к патчу
+                  2) Я буду вас здесь сообщать об обновлении, следите за датой
+                  3) Окно просто закрой, если не скачал 19 сентября
+                  4) Будут баги пиши в ТЕХ-ПОДДЕРЖКУ на сайте по кнопке ЗАГРУЗИТЬ
                         
                          
             
@@ -37,17 +33,16 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.2</version>
+    <version>1.0.13</version>
     <changes>
-Version #1.1.0, date 10.09.2025:
- • updated: patch 2.0.0.0.
-    • Updated:
-                             1) Updated sights "BadBoy, Taipan"
-                                Old version and new
-                             2) Made CHECK boxes for tactics and topography
-                             3) Some mods have not been updated yet, but will be 
-                                updated later
-                             4) Updated the garage mark
+Version #1.1.0, date 19.09.2025:
+ • updated: patch 2.0.0.1.
+                             • Updated:
+                             1) Updated chips for the patch
+                             2) I will inform you about the update here, follow the date
+                             3) Just close the window if you haven't downloaded it by September 19
+
+                             4) If there are any bugs, write to TECHNICAL SUPPORT on the website using the DOWNLOAD button
                              
    
 
@@ -65,10 +60,10 @@ Version #1.1.0, date 10.09.2025:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.2</version>
+    <version>1.0.13</version>
     <changes>
-Версия #1.1.0, от 10.09.2025:
-   • Сборка обновлена для 2.0.0.0.
+Версия #1.1.0, от 19.09.2025:
+   • Сборка обновлена для 2.0.0.1.
                                 
 
                                1) Обновлены прицелы "БедБой, Тайпан"
