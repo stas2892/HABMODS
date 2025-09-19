@@ -3,10 +3,10 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.13</version>
+    <version>1.0.14</version>
                               
     <changes>
-Версія #1.1.0, від 19.09.2025: 
+Версія #1.1.0, від 20.09.2025: 
                   • Оновлено для патчу 2.0.0.1.  
                   1) Оновлені фішки до патчу
                   2) Я буду вас тут повідомляти про оновлення, слідкуйте за датою
@@ -31,9 +31,9 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.13</version>
+    <version>1.0.14</version>
     <changes>
-Version #1.1.0, date 19.09.2025:
+Version #1.1.0, date 20.09.2025:
  • updated: patch 2.0.0.1.
                              • Updated:
                              1) Updated chips for the patch
@@ -57,9 +57,9 @@ Version #1.1.0, date 19.09.2025:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.13</version>
+    <version>1.0.14</version>
     <changes>
-Версия #1.1.0, от 19.09.2025:
+Версия #1.1.0, от 20.09.2025:
                      • Сборка обновлена для 2.0.0.1.       
                                1) Обновленные фишки к патчу
                                2) Я буду вас здесь сообщать об обновлении, следите за датой
