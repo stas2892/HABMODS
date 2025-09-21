@@ -3,16 +3,15 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.14</version>
+    <version>1.0.15</version>
                               
     <changes>
-Версія #1.1.0, від 20.09.2025: 
+Версія #1.0.15, від 22.09.2025: 
                   • Оновлено для патчу 2.0.0.1.  
-                  1) Оновлені фішки до патчу
-                  2) Я буду вас тут повідомляти про оновлення, слідкуйте за датою
-                  3) Вікно просто закрий, якщо не завантажив 19 вересня
-                  4) Будуть баги пиши в ТЕХ-ПІДТРИМКУ на сайті по кнопці 
-                     ЗАВАНТАЖИТИ
+                  1) Лампочка ТРИКУТНИК без ХВМ
+                  2) Твікери одним паком
+                  3) Чорні мапи для підняття ФПС
+                  4) Око Саурона ( поки що китайське )
                          
             
             
@@ -31,15 +30,15 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.14</version>
+    <version>1.0.15</version>
     <changes>
-Version #1.1.0, date 20.09.2025:
+Version #1.0.15, date 22.09.2025:
  • updated: patch 2.0.0.1.
                              • Updated:
-                             1) Updated chips for the patch
-                             2) I will inform you about the update here, follow the date
-                             3) Just close the window if you haven't downloaded it by September 19
-                             4) If there are any bugs, write to TECHNICAL SUPPORT on the website using the DOWNLOAD button
+                             1) TRIANGLE light bulb without XVM
+                             2) Tweakers in one package
+                             3) Black maps to increase FPS
+                             4) Eye of Sauron (for now Chinese)
                              
    
 
@@ -57,14 +56,14 @@ Version #1.1.0, date 20.09.2025:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.14</version>
+    <version>1.0.15</version>
     <changes>
-Версия #1.1.0, от 20.09.2025:
+Версия #1.0.15, от 22.09.2025:
                      • Сборка обновлена для 2.0.0.1.       
-                               1) Обновленные фишки к патчу
-                               2) Я буду вас здесь сообщать об обновлении, следите за датой
-                               3) Окно просто закрой, если не скачал 19 сентября                     
-                               4) Будут баги пиши в ТЕХ-ПОДДЕРЖКУ на сайте по кнопке ЗАГРУЗИТЬ
+                               1) Лампочка ТРЕУГОЛЬНИК без ХВМ
+                               2) Твикеры одним пакетом
+                               3) Черные карты для поднятия ФПС
+                               4) Глаз Саурона ( пока что китайская )
 
     </changes>
     <forumTheme></forumTheme>
