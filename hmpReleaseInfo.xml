@@ -6,7 +6,7 @@
     <version>1.0.15</version>
                               
     <changes>
-Версія #1.0.15, від 22.09.2025: 
+Версія #1.0.12, від 22.09.2025: 
                   • Оновлено для патчу 2.0.0.1.  
                   1) Лампочка ТРИКУТНИК без ХВМ
                   2) Твікери одним паком
@@ -30,7 +30,7 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.15</version>
+    <version>1.0.12</version>
     <changes>
 Version #1.0.15, date 22.09.2025:
  • updated: patch 2.0.0.1.
@@ -56,7 +56,7 @@ Version #1.0.15, date 22.09.2025:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.15</version>
+    <version>1.0.12</version>
     <changes>
 Версия #1.0.15, от 22.09.2025:
                      • Сборка обновлена для 2.0.0.1.       
