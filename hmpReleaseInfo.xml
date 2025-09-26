@@ -3,16 +3,16 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.12</version>
+    <version>1.0.16</version>
                               
     <changes>
-Версія #1.0.12, від 22.09.2025: 
+Версія #1.0.16, від 26.09.2025: 
                   • Оновлено для патчу 2.0.0.1.  
                   1) Лампочка ТРИКУТНИК без ХВМ
                   2) Твікери одним паком
                   3) Чорні мапи для підняття ФПС
                   4) Око Саурона ( поки що китайське )
-                         
+                  5) Додано АВТОЗБІР БП      
             
             
 
@@ -30,15 +30,16 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.12</version>
+    <version>1.0.16</version>
     <changes>
-Version #1.0.12, date 22.09.2025:
+Version #1.0.16, date 26.09.2025:
  • updated: patch 2.0.0.1.
                              • Updated:
                              1) TRIANGLE light bulb without XVM
                              2) Tweakers in one package
                              3) Black maps to increase FPS
                              4) Eye of Sauron (for now Chinese)
+                             5) Added AUTO-ASSEMBLY BP
                              
    
 
@@ -56,14 +57,15 @@ Version #1.0.12, date 22.09.2025:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.12</version>
+    <version>1.0.16</version>
     <changes>
-Версия #1.0.12, от 22.09.2025:
+Версия #1.0.16, от 26.09.2025:
                      • Сборка обновлена для 2.0.0.1.       
                                1) Лампочка ТРЕУГОЛЬНИК без ХВМ
                                2) Твикеры одним пакетом
                                3) Черные карты для поднятия ФПС
                                4) Глаз Саурона ( пока что китайская )
+                               5) Добавлено АВТОСБОР БП
 
     </changes>
     <forumTheme></forumTheme>
