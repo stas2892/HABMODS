@@ -3,16 +3,20 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.16</version>
+    <version>1.0.17</version>
                               
     <changes>
-Версія #1.0.16, від 26.09.2025: 
+Версія #1.0.17, від 30.09.2025: 
                   • Оновлено для патчу 2.0.0.1.  
                   1) Лампочка ТРИКУТНИК без ХВМ
-                  2) Твікери одним паком
-                  3) Чорні мапи для підняття ФПС
-                  4) Око Саурона ( поки що китайське )
-                  5) Додано АВТОЗБІР БП      
+                     Спущенна нижче ОБЗ
+                  2) Оновлено НОВИЙ ПРИЦІЛ, а саме:
+                     Снайперський приціл якого не було в бою!
+                  3) Оновлено менеджер РИПЛЕЇВ
+                  4) Оновлення РАДІО буде пізніше!
+                  5) Додано АВТОЗБІР БП  
+                  6) Всі інші приціли будуть оновлені 
+                     в наступно патчі ( відповідь авторів )    
             
             
 
@@ -30,17 +34,20 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.16</version>
+    <version>1.0.17</version>
     <changes>
-Version #1.0.16, date 26.09.2025:
+Version #1.0.17, date 30.09.2025:
  • updated: patch 2.0.0.1.
                              • Updated:
-                             1) TRIANGLE light bulb without XVM
-                             2) Tweakers in one package
-                             3) Black maps to increase FPS
-                             4) Eye of Sauron (for now Chinese)
+                             1) TRIANGLE light without XVM
+                                Lowered below the OBZ
+                             2) Updated NEW SIGHT, namely:
+                                Sniper sight that was not in battle!
+                             3) Updated REPLAY manager
+                             4) RADIO update will be later!
                              5) Added AUTO-ASSEMBLY BP
-                             
+                             6) All other sights will be updated 
+                                in the next patch (authors' response)
    
 
     </changes>
@@ -57,15 +64,19 @@ Version #1.0.16, date 26.09.2025:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.16</version>
+    <version>1.0.17</version>
     <changes>
-Версия #1.0.16, от 26.09.2025:
+Версия #1.0.17, от 30.09.2025:
                      • Сборка обновлена для 2.0.0.1.       
                                1) Лампочка ТРЕУГОЛЬНИК без ХВМ
-                               2) Твикеры одним пакетом
-                               3) Черные карты для поднятия ФПС
-                               4) Глаз Саурона ( пока что китайская )
-                               5) Добавлено АВТОСБОР БП
+                                  Спущена ниже ОБЗ
+                               2) Обновлен НОВЫЙ ПРИЦЕЛ, а именно:
+                                  Снайперский прицел, которого не было в бою!
+                               3) Обновлен менеджер РИПЛЕЕВ
+                               4) Обновление РАДИО будет позже!
+                               5) Добавлено АВТОСБОР БП      
+                               6) Все остальные прицелы будут обновлены 
+                                  в следующем патче ( ответ авторов )
 
     </changes>
     <forumTheme></forumTheme>
