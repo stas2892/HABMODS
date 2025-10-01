@@ -3,11 +3,11 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.17</version>
+    <version>1.0.18</version>
                               
     <changes>
-Версія #1.0.17, від 30.09.2025: 
-                  • Оновлено для патчу 2.0.0.1.  
+Версія #1.0.18, від 02.09.2025: 
+                  • Оновлено для патчу 2.0.0.2.  
                   1) Лампочка ТРИКУТНИК без ХВМ
                      Спущенна нижче ОБЗ
                   2) Оновлено НОВИЙ ПРИЦІЛ, а саме:
@@ -34,10 +34,10 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.17</version>
+    <version>1.0.18</version>
     <changes>
-Version #1.0.17, date 30.09.2025:
- • updated: patch 2.0.0.1.
+Version #1.0.18, date 02.09.2025:
+ • updated: patch 2.0.0.2.
                              • Updated:
                              1) TRIANGLE light without XVM
                                 Lowered below the OBZ
@@ -64,10 +64,10 @@ Version #1.0.17, date 30.09.2025:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.17</version>
+    <version>1.0.18</version>
     <changes>
-Версия #1.0.17, от 30.09.2025:
-                     • Сборка обновлена для 2.0.0.1.       
+Версия #1.0.18, от 02.09.2025:
+                     • Сборка обновлена для 2.0.0.2.       
                                1) Лампочка ТРЕУГОЛЬНИК без ХВМ
                                   Спущена ниже ОБЗ
                                2) Обновлен НОВЫЙ ПРИЦЕЛ, а именно:
