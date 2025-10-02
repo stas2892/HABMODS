@@ -1,13 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <hmpReleaseInfo.xml>
-
   <uk>
     <enabled>true</enabled>
-    <version>1.0.19</version>
-                              
+    <version>1.0.19</version>                   
     <changes>
-Версія #1.0.19, від 03.09.2025: 
-                  • Оновлено для патчу 2.0.0.2.  
+Версія #1.0.19, від 03.09.2025 • Оновлено для патчу 2.0.0.2.  
                   1) Оновлено приціл Дамаклів Меч
                   2) Додано приціл OverCros
                   3) УГН для ПТ буде оновлено пізніше автором
@@ -38,9 +35,7 @@
     <enabled>true</enabled>
     <version>1.0.19</version>
     <changes>
-Version #1.0.19, date 03.09.2025:
- • updated: patch 2.0.0.2.
-                             • Updated:
+Version #1.0.19, date 03.09.2025 • updated: patch 2.0.0.2.    
                              1) Updated the Sword of Damacli sight
                              2) Added the OverCros sight
                              3) UGN for PT will be updated later by the author 
@@ -69,8 +64,7 @@ Version #1.0.19, date 03.09.2025:
     <enabled>true</enabled>
     <version>1.0.19</version>
     <changes>
-Версия #1.0.19, от 03.09.2025:
-                     • Сборка обновлена для 2.0.0.2.       
+Версия #1.0.19, от 03.09.2025 • Сборка обновлена для 2.0.0.2.      
                                1) Обновлен прицел Дамаклов Меч
                                2) Добавлен прицел OverCros
                                3) УГН для ПТ будет обновлен позже автором 
