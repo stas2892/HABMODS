@@ -3,20 +3,22 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.18</version>
+    <version>1.0.19</version>
                               
     <changes>
-Версія #1.0.18, від 02.09.2025: 
+Версія #1.0.19, від 03.09.2025: 
                   • Оновлено для патчу 2.0.0.2.  
-                  1) Лампочка ТРИКУТНИК без ХВМ
-                     Спущенна нижче ОБЗ
-                  2) Оновлено НОВИЙ ПРИЦІЛ, а саме:
-                     Снайперський приціл якого не було в бою!
-                  3) Оновлено менеджер РИПЛЕЇВ
-                  4) Оновлення РАДІО буде пізніше!
-                  5) Додано АВТОЗБІР БП  
-                  6) Всі інші приціли будуть оновлені 
-                     в наступно патчі ( відповідь авторів )    
+                  1) Оновлено приціл Дамаклів Меч
+                  2) Додано приціл OverCros
+                  3) УГН для ПТ буде оновлено пізніше автором
+                  4) Лампочка ТРИКУТНИК без ХВМ
+                     пофікшена по роботі ( працює )
+                  5) Оновлено менеджер РИПЛЕЇВ
+                  6) Оновлення РАДІО буде пізніше!
+                  7) Додано АВТОЗБІР БП  
+                  8) Всі інші приціли будуть оновлені 
+                     дуже скоро, очікуємо сповіщення
+                     в ангарі!
             
             
 
@@ -34,20 +36,21 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.18</version>
+    <version>1.0.19</version>
     <changes>
-Version #1.0.18, date 02.09.2025:
+Version #1.0.19, date 03.09.2025:
  • updated: patch 2.0.0.2.
                              • Updated:
-                             1) TRIANGLE light without XVM
-                                Lowered below the OBZ
-                             2) Updated NEW SIGHT, namely:
-                                Sniper sight that was not in battle!
-                             3) Updated REPLAY manager
-                             4) RADIO update will be later!
-                             5) Added AUTO-ASSEMBLY BP
-                             6) All other sights will be updated 
-                                in the next patch (authors' response)
+                             1) Updated the Sword of Damacli sight
+                             2) Added the OverCros sight
+                             3) UGN for PT will be updated later by the author 
+                             4) The TRIANGLE light bulb without 
+                                XVM is fixed for work (works)
+                             5) Updated the REPLAY manager
+                             6) RADIO update will be later!
+                             7) Added AUTOASSEMBLY BP 
+                             8) All other sights will be updated very soon,
+                                expect a notification in the hangar!
    
 
     </changes>
@@ -64,19 +67,19 @@ Version #1.0.18, date 02.09.2025:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.18</version>
+    <version>1.0.19</version>
     <changes>
-Версия #1.0.18, от 02.09.2025:
+Версия #1.0.19, от 03.09.2025:
                      • Сборка обновлена для 2.0.0.2.       
-                               1) Лампочка ТРЕУГОЛЬНИК без ХВМ
-                                  Спущена ниже ОБЗ
-                               2) Обновлен НОВЫЙ ПРИЦЕЛ, а именно:
-                                  Снайперский прицел, которого не было в бою!
-                               3) Обновлен менеджер РИПЛЕЕВ
-                               4) Обновление РАДИО будет позже!
-                               5) Добавлено АВТОСБОР БП      
-                               6) Все остальные прицелы будут обновлены 
-                                  в следующем патче ( ответ авторов )
+                               1) Обновлен прицел Дамаклов Меч
+                               2) Добавлен прицел OverCros
+                               3) УГН для ПТ будет обновлен позже автором 
+                               4) Лампочка ТРЕУГОЛЬНИК без ХВМ пофиксирована по работе (работает)
+                               5) Обновлен менеджер РИПЛЕЕВ
+                               6) Обновление РАДИО будет позже!
+                               7) Добавлено АВТОСБОР БП  
+                               8) Все остальные прицелы будут обновлены очень скоро, 
+                                  ожидаем уведомления в ангаре!
 
     </changes>
     <forumTheme></forumTheme>
