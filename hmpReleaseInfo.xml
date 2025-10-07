@@ -11,15 +11,12 @@
    Якщо ви зняли екіпаж, то потім коли знову натиснете на танк —
    він автоматично повернеться!
 2) Оновлено ХВМ від 04.06.25.
+    </changes>
 
-
-   </changes>
-
-<forumTheme label="Тех-підтримка" link="https://t.me/+JwTyc-vdEjljZDdi"/>
-<downloadLink>https://habwotmods.pp.ua/</downloadLink>
-
-<modsBlackList>
-</modsBlackList>
+    <forumTheme>https://t.me/+JwTyc-vdEjljZDdi</forumTheme>
+    <downloadLink>https://habwotmods.pp.ua/</downloadLink>
+    <modsBlackList>
+    </modsBlackList>
 
     <xvm>
       <isReleaseAvailable>False</isReleaseAvailable>
@@ -38,11 +35,9 @@ Version #1.0.20, date 06.09.2025 • updated for patch 2.0.0.2.
    If you have removed the crew, then when you click the tank again —
    it will automatically return!
 2) Updated XVM from 04.06.25.
-    
-
-
     </changes>
-    <forumTheme label="Tech Support" link="https://t.me/+JwTyc-vdEjljZDdi"/>
+
+    <forumTheme>https://t.me/+JwTyc-vdEjljZDdi</forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
     <modsBlackList>
     </modsBlackList>
@@ -64,11 +59,9 @@ Version #1.0.20, date 06.09.2025 • updated for patch 2.0.0.2.
    Если вы сняли экипаж, то потом снова нажмите на танк —
    он автоматически вернется!
 2) Обновлено ХВМ от 04.06.25.
-
-
-
     </changes>
-    <forumTheme label="Тех-підтримка" link="https://t.me/+JwTyc-vdEjljZDdi"/>
+
+    <forumTheme>https://t.me/+JwTyc-vdEjljZDdi</forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
     <modsBlackList>
     </modsBlackList>
