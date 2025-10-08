@@ -2,15 +2,13 @@
 <hmpReleaseInfo>
   <uk>
     <enabled>true</enabled>
-    <version>1.0.20</version>
+    <version>1.0.21</version>
     <changes>
 ГОРТАЙ КОЛЕСИКОМ В НИЗ ДЛЯ ІНФОРМАЦІЇ ПРО ВСІ ОНОВЛЕННЯ
-Версія #1.0.20, від 06.09.2025 • Оновлено для патчу 2.0.0.2.
-1) Оновлено Автоповернення екіпажу.
-   Тепер воно працює таким чином:
-   Якщо ви зняли екіпаж, то потім коли знову натиснете на танк —
-   він автоматично повернеться!
-2) Оновлено ХВМ від 04.06.25.
+Версія #1.0.21, від 08.09.2025 • Оновлено для патчу 2.0.0.2.
+1) Додано звук сирени при пострілі арти в вашу сторону
+2) Оновлено шкурку ЕБР 105
+3) Озвучка вся прибрана, залишився тільки менеджер озвучок
     </changes>
 
     <forumTheme>https://t.me/+JwTyc-vdEjljZDdi</forumTheme>
@@ -27,15 +25,12 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.20</version>
+    <version>1.0.21</version>
     <changes>
-Version #1.0.20, date 06.09.2025 • updated for patch 2.0.0.2.
-1) Updated Crew Auto Return.
-   Now it works like this:
-   If you have removed the crew, then when you click the tank again —
-   it will automatically return!
-2) Updated XVM from 04.06.25.
-    </changes>
+Version #1.0.21, date 08.09.2025 • updated for patch 2.0.0.2.
+1) Added siren sound when art is shot in your direction
+2) Updated EBR 105 skin
+3) All voice acting removed, only voice acting manager remains    </changes>
 
     <forumTheme>https://t.me/+JwTyc-vdEjljZDdi</forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
@@ -51,15 +46,12 @@ Version #1.0.20, date 06.09.2025 • updated for patch 2.0.0.2.
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.20</version>
+    <version>1.0.21</version>
     <changes>
-Версия #1.0.20, от 06.09.2025 • Обновлено для патча 2.0.0.2.
-1) Обновлено Автовозвращение экипажа.
-   Теперь оно работает следующим образом:
-   Если вы сняли экипаж, то потом снова нажмите на танк —
-   он автоматически вернется!
-2) Обновлено ХВМ от 04.06.25.
-    </changes>
+Версия #1.0.21, от 08.09.2025 • Обновлено для патча 2.0.0.2.
+1) Добавлен звук сирены при выстреле арты в вашу сторону
+2) Обновлена ​​шкурка ЭБР 105
+3) Озвучка вся убрана, остался только менеджер озвучок    </changes>
 
     <forumTheme>https://t.me/+JwTyc-vdEjljZDdi</forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
