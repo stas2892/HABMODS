@@ -1,26 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <hmpReleaseInfo.xml>
-
   <uk>
     <enabled>true</enabled>
-    <version>1.0.21</version>
-                              
-    <changes>
-Версія #1.0.21, від 09.07.2025:
-                  • Оновлено для патча 1.29.1.0.  
-                  1) Фікс багів вильоту деяких модів на різних мовах
-                  2) Баг  з панеллю в бою поки висить, будемо фіксити 
-                  3) проблеми по модах пишіть сюда: https://t.me/+JwTyc-vdEjljZDdi                 
-
-                       
-                     
-                        
-                         
-            
-            
+    <version>1.0.21</version>                   
+    <changes> 
+Версія #1.0.21, від 08.09.2025 
+               • Оновлено для патчу 2.0.0.2.  
+        1) Додано звук сирени при пострілі арти в вашу сторону 
+        2) Оновлено шкурку ЕБР 105 
+        3) Озвучка вся прибрана, залишився тільки менеджер озвучок
 
     </changes>
-    <forumTheme></forumTheme>
+    <forumTheme/>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
     <modsBlackList>
     </modsBlackList>
@@ -35,18 +26,14 @@
     <enabled>true</enabled>
     <version>1.0.21</version>
     <changes>
-Version #1.0.21, date 09.07.2025:
- • updated: patch 1.29.1.0.
-    • Updated:
-                             1) 3 ROWS OF TANKS IN THE HANGAR HAVE BEEN REPAIRED
-                             2) SOUND MANAGER HAS BEEN ADDED
-                             3) EQUIPMENT DISASSEMBLY HAS BEEN ADDED IN THE HANGAR,
-                                  YOU CAN DISASSEMBLE 3 EQUIPMENT AT A TIME
-           
-   
+Version #1.0.21, date 08.09.2025 
+      • updated: patch 2.0.0.2.    
+  1) Added siren sound when art is shot in your direction 
+  2) Updated EBR 105 skin 
+  3) All voice acting removed, only the voice acting manager remains
 
     </changes>
-    <forumTheme></forumTheme>
+    <forumTheme/>https://t.me/+JwTyc-vdEjljZDdi</forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
     <modsBlackList>
     </modsBlackList>
@@ -61,16 +48,14 @@ Version #1.0.21, date 09.07.2025:
     <enabled>true</enabled>
     <version>1.0.21</version>
     <changes>
-Версия #1.0.21, от 09.07.2025:
-   • Сборка обновлена для 1.29.1.0.
-                                НАСТРОЕНЫЙ АВТОВОЗВРАТ ЕКИПАЖА, РАБОТАЕТ С ХВМ 
-
-                               1) Фікс багів вильоту деяких модів на різних мовах
-                  2) Баг  з панеллю в бою поки висить, будемо фіксити 
-                  3) проблеми по модах пишіть сюда: https://t.me/+JwTyc-vdEjljZDdi                 
+Версия #1.0.21, от 08.09.2025 
+          • Сборка обновлена для 2.0.0.2.      
+ 1) Добавлен звук сирены при выстреле арты в вашу сторону
+ 2) Обновлена ​​шкурка ЭБР 105 
+ 3) Озвучка вся убрана, остался только менеджер озвучок
 
     </changes>
-    <forumTheme></forumTheme>
+    <forumTheme/>https://t.me/+JwTyc-vdEjljZDdi</forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
     <modsBlackList>
     </modsBlackList>
