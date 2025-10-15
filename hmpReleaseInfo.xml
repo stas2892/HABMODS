@@ -3,21 +3,15 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.24</version>
+    <version>1.0.25</version>
                               
     <changes>
-Версія #1.0.24, від 15.10.2025:
+Версія #1.0.25, від 16.10.2025:
                   • Оновлено для патча 2.0.1.0.  
-                  1) Оновлені приціли:
-                     Дамаклів Меч, БедБой, Снайпер, Шведський 
-                  2) Оновлено ХВМ під ПАТЧ 2.0.1.0
-                  3) Оновлено П-МОД - частково
-                  4) Оновлено відмітки в бою та ангарі
-                  5) Оновлено відмітки на стволах та іконках танків 
-                     які заміняють СРСР
-                  6) Ще будуть оновлення, багато зломаних модів 
-                     які з гаражу  
-
+                  1) Оновлено ХВМ 16.10.2025
+                  2) Оновлено ХП команд по ALT
+                  3) WN8 без ХВМ поки що не оновлено ( не працює )
+                  4) Оновлено майстри в ангарі
                        
                      
                         
@@ -39,21 +33,16 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.24</version>
+    <version>1.0.25</version>
     <changes>
-Version #1.0.24, date 15.10.2025:
- • updated: patch 1.0.24.
+Version #1.0.25, date 16.10.2025:
+ • updated: patch 1.0.25.
     • Updated: 2.0.1.0.  
 
-                             1) Updated sights:
-                                Sword of Damac, BadBoy, Sniper, Swedish 
-                             2) Updated XVM for PATCH 2.0.1.0
-                             3) Updated P-MOD - partially
-                             4) Updated marks in battle and hangar
-                             5) Updated marks on barrels and icons of tanks 
-                                that replace the USSR
-                             6) More will be updated, many broken mods 
-                                that are from the garage
+                             1) Updated XVM 10/16/2025
+                             2) Updated HP commands for ALT
+                             3) WN8 without XVM has not been updated yet (does not work)
+                             4) Updated masters in the hangar
    
 
     </changes>
@@ -70,21 +59,16 @@ Version #1.0.24, date 15.10.2025:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.24</version>
+    <version>1.0.25</version>
     <changes>
-Версия #1.0.24, от 15.10.2025:
+Версия #1.0.25, от 16.10.2025:
    • Сборка обновлена для 2.0.1.0.
                                 
-                   1) Обновленные прицелы:
-                     Дамаклов Меч, БедБой, Снайпер, Шведский 
-                  2) Обновлен ХВМ под ПАТЧ 2.0.1.0
-                  3) Обновлено П-МОД – частично
-                  4) Обновлены отметки в бою и ангаре
-                  5) Обновлены отметки на стволах и иконках танков 
-                     заменяющие СССР
-                  6) Еще будут обновлены, много нарушенных модов 
-                     какой из гаража
-    </changes>
+                   1) Обновлено ХВМ 16.10.2025
+                   2) Обновлено ХП команд по ALT
+                   3) WN8 без ХВМ пока не обновлен ( не работает )
+                   4) Обновлены мастера в ангаре
+    </changes> 
     <forumTheme></forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
     <modsBlackList>
