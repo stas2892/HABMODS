@@ -3,15 +3,20 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.22</version>
+    <version>1.0.24</version>
                               
     <changes>
-Версія #1.0.22, від 15.10.2025:
+Версія #1.0.24, від 15.10.2025:
                   • Оновлено для патча 2.0.1.0.  
                   1) Оновлені приціли:
-                   Дамаклів Меч, БедБой, Снайпер, Шведський 
+                     Дамаклів Меч, БедБой, Снайпер, Шведський 
                   2) Оновлено ХВМ під ПАТЧ 2.0.1.0
-                  3) Оновлення інших прицілів буде незабаром      
+                  3) Оновлено П-МОД - частково
+                  4) Оновлено відмітки в бою та ангарі
+                  5) Оновлено відмітки на стволах та іконках танків 
+                     які заміняють СРСР
+                  6) Ще будуть оновлення, багато зломаних модів 
+                     які з гаражу  
 
                        
                      
@@ -34,15 +39,21 @@
 
   <en>
     <enabled>true</enabled>
-    <version>5.8</version>
+    <version>1.0.24</version>
     <changes>
-Version #1.0.22, date 15.10.2025:
- • updated: patch 1.0.22.
+Version #1.0.24, date 15.10.2025:
+ • updated: patch 1.0.24.
     • Updated: 2.0.1.0.  
 
-                             1) Added siren sound when art is shot in your direction 
-                             2) Updated EBR 105 skin 
-                             3) All voice acting removed, only the voice acting manager remains
+                             1) Updated sights:
+                                Sword of Damac, BadBoy, Sniper, Swedish 
+                             2) Updated XVM for PATCH 2.0.1.0
+                             3) Updated P-MOD - partially
+                             4) Updated marks in battle and hangar
+                             5) Updated marks on barrels and icons of tanks 
+                                that replace the USSR
+                             6) More will be updated, many broken mods 
+                                that are from the garage
    
 
     </changes>
@@ -59,15 +70,20 @@ Version #1.0.22, date 15.10.2025:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.22</version>
+    <version>1.0.24</version>
     <changes>
-Версия #1.0.22, от 15.10.2025:
+Версия #1.0.24, от 15.10.2025:
    • Сборка обновлена для 2.0.1.0.
-                                НАСТРОЕНЫЙ АВТОВОЗВРАТ ЕКИПАЖА, РАБОТАЕТ С ХВМ 
-
-                               1) Добавлен звук сирены при выстреле арты в вашу сторону 
-                               2) Обновлена ​​шкурка ЭБР 105 
-                               3) Озвучка вся убрана, остался только менеджер озвучок
+                                
+                   1) Обновленные прицелы:
+                     Дамаклов Меч, БедБой, Снайпер, Шведский 
+                  2) Обновлен ХВМ под ПАТЧ 2.0.1.0
+                  3) Обновлено П-МОД – частично
+                  4) Обновлены отметки в бою и ангаре
+                  5) Обновлены отметки на стволах и иконках танков 
+                     заменяющие СССР
+                  6) Еще будут обновлены, много нарушенных модов 
+                     какой из гаража
     </changes>
     <forumTheme></forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
