@@ -3,15 +3,18 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.25</version>
+    <version>1.0.26</version>
                               
     <changes>
-Версія #1.0.25, від 16.10.2025:
+Версія #1.0.26, від 16.10.2025:
                   • Оновлено для патча 2.0.1.0.  
-                  1) Оновлено ХВМ 16.10.2025
-                  2) Оновлено ХП команд по ALT
-                  3) WN8 без ХВМ поки що не оновлено ( не працює )
-                  4) Оновлено майстри в ангарі
+                  1) Оновлено кольрові іконки танків в бою
+                  2) Оновлено дані в П-МОД на 60 днів не скидання
+                     статистики
+                  3) Оновлено ХВМ 16.10.2025
+                  4) Оновлено ХП команд по ALT
+                  5) WN8 без ХВМ поки що не оновлено ( не працює )
+                  6) Оновлено майстри в ангарі
                        
                      
                         
@@ -33,16 +36,18 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.25</version>
+    <version>1.0.26</version>
     <changes>
-Version #1.0.25, date 16.10.2025:
- • updated: patch 1.0.25.
-    • Updated: 2.0.1.0.  
-
-                             1) Updated XVM 10/16/2025
-                             2) Updated HP commands for ALT
-                             3) WN8 without XVM has not been updated yet (does not work)
-                             4) Updated masters in the hangar
+Version #1.0.26, date 16.10.2025:
+ • updated: patch 1.0.26.
+                            • Updated: 2.0.1.0.  
+                             1) Updated color icons of tanks in battle
+                             2) Updated data in P-MOD for 60 days without reset
+                                statistics
+                             3) Updated XVM 10/16/2025
+                             4) Updated HP commands for ALT
+                             5) WN8 without XVM has not been updated yet (does not work)
+                             6) Updated masters in the hangar
    
 
     </changes>
@@ -59,15 +64,17 @@ Version #1.0.25, date 16.10.2025:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.25</version>
+    <version>1.0.26</version>
     <changes>
-Версия #1.0.25, от 16.10.2025:
+Версия #1.0.26, от 16.10.2025:
    • Сборка обновлена для 2.0.1.0.
-                                
-                   1) Обновлено ХВМ 16.10.2025
-                   2) Обновлено ХП команд по ALT
-                   3) WN8 без ХВМ пока не обновлен ( не работает )
-                   4) Обновлены мастера в ангаре
+                   1) Обновлены цветные иконки танков в бою
+                   2) Обновлены данные в П-МОД на 60 дней не сброс
+                      статистики          
+                   3) Обновлено ХВМ 16.10.2025
+                   4) Обновлено ХП команд по ALT
+                   5) WN8 без ХВМ пока не обновлен ( не работает )
+                   6) Обновлены мастера в ангаре
     </changes> 
     <forumTheme></forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
