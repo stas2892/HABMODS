@@ -3,19 +3,15 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.27</version>
+    <version>1.0.28</version>
                               
     <changes>
-Версія #1.0.27, від 23.10.2025:
-                  • Оновлено для патча 2.0.1.0.  
-                  1) Оновлено кольрові іконки танків в бою
-                  2) Оновлено дані в П-МОД на 60 днів не скидання
-                     статистики
-                  3) Оновлено ХВМ 23.10.2025
-                  4) Оновлено ХП команд по ALT
-                  5) WN8 без ХВМ поки що не оновлено ( не працює )
-                  6) Оновлено майстри в ангарі
-                       
+Версія #1.0.28, від 24.10.2025:
+      
+                  • Оновлено для патча 2.0.1.1.  
+                  1) Оновлено WN8 без ХВМ
+                  2) Оновлено Авторські лампочки, тепер працюють
+                  3) Оновлено лампу трикутник                       
                      
                         
                          
@@ -36,18 +32,15 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.27</version>
+    <version>1.0.28</version>
     <changes>
-Version #1.0.27, date 23.10.2025:
- • updated: patch 1.0.27.
-                            • Updated: 2.0.1.0.  
-                             1) Updated color icons of tanks in battle
-                             2) Updated data in P-MOD for 60 days without reset
-                                statistics
-                             3) Updated XVM 23/10/2025
-                             4) Updated HP commands for ALT
-                             5) WN8 without XVM has not been updated yet (does not work)
-                             6) Updated masters in the hangar
+Version #1.0.28, date 24.10.2025:
+ • updated: patch 1.0.28.
+                            • Updated: 2.0.1.1.
+  
+                             1) Updated WN8 without XVM
+                             2) Updated Author's bulbs, now working
+                             3) Updated triangle lamp
    
 
     </changes>
@@ -64,17 +57,14 @@ Version #1.0.27, date 23.10.2025:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.27</version>
+    <version>1.0.28</version>
     <changes>
-Версия #1.0.27, от 23.10.2025:
-   • Сборка обновлена для 2.0.1.0.
-                   1) Обновлены цветные иконки танков в бою
-                   2) Обновлены данные в П-МОД на 60 дней не сброс
-                      статистики          
-                   3) Обновлено ХВМ 23.10.2025
-                   4) Обновлено ХП команд по ALT
-                   5) WN8 без ХВМ пока не обновлен ( не работает )
-                   6) Обновлены мастера в ангаре
+Версия #1.0.28, от 24.10.2025:
+                   • Сборка обновлена для 2.0.1.1.
+
+                   1) Обновлено WN8 без ХВМ
+                   2) Обновлены Авторские лампочки, теперь работают
+                   3) Обновлено лампу треугольник
     </changes> 
     <forumTheme></forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
