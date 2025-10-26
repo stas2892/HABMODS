@@ -3,16 +3,17 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.28</version>
+    <version>1.0.29</version>
                               
     <changes>
-Версія #1.0.28, від 24.10.2025:
+Версія #1.0.29, від 27.10.2025:
       
-                  • Оновлено для патча 2.0.1.1.  
-                  1) Оновлено WN8 без ХВМ
-                  2) Оновлено Авторські лампочки, тепер працюють
-                  3) Оновлено лампу трикутник                       
-                  4) Оновлено УГН для ПТ-САУ   
+                  • Оновлено для патча 2.0.1.1.
+                  1) ОНОВЛЕНО РАДІО ЮА  
+                  2) Оновлено WN8 без ХВМ
+                  3) Оновлено Авторські лампочки, тепер працюють
+                  4) Оновлено лампу трикутник                       
+                  5) Оновлено УГН для ПТ-САУ   
                         
                          
             
@@ -32,16 +33,16 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.28</version>
+    <version>1.0.29</version>
     <changes>
-Version #1.0.28, date 24.10.2025:
- • updated: patch 1.0.28.
+Version #1.0.29, date 27.10.2025:
+ • updated: patch 1.0.29.
                             • Updated: 2.0.1.1.
-  
-                             1) Updated WN8 without XVM
-                             2) Updated Author's bulbs, now working
-                             3) Updated triangle lamp
-                             4) Updated UGN for tank destroyers
+                             1) RADIO UA UPDATED
+                             2) Updated WN8 without XVM
+                             3) Updated Author's bulbs, now working
+                             4) Updated triangle lamp
+                             5) Updated UGN for tank destroyers
 
     </changes>
     <forumTheme></forumTheme>
@@ -57,11 +58,11 @@ Version #1.0.28, date 24.10.2025:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.28</version>
+    <version>1.0.29</version>
     <changes>
-Версия #1.0.28, от 24.10.2025:
+Версия #1.0.29, от 27.10.2025:
                    • Сборка обновлена для 2.0.1.1.
-
+                   1) Обновлено РАДИО ЮА
                    1) Обновлено WN8 без ХВМ
                    2) Обновлены Авторские лампочки, теперь работают
                    3) Обновлено лампу треугольник
