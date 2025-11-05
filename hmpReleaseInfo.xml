@@ -6,14 +6,15 @@
     <version>1.0.29</version>
                               
     <changes>
-Версія #1.0.29, від 27.10.2025:
+Версія #1.0.30, від 06.11.2025:
       
                   • Оновлено для патча 2.0.1.1.
-                  1) ОНОВЛЕНО РАДІО ЮА  
-                  2) Оновлено WN8 без ХВМ
-                  3) Оновлено Авторські лампочки, тепер працюють
-                  4) Оновлено лампу трикутник                       
-                  5) Оновлено УГН для ПТ-САУ   
+                  1) Оновлено МЕНЕДЖЕР ОЗВУЧОК
+                  2) ОНОВЛЕНО РАДІО ЮА  
+                  3) Оновлено WN8 без ХВМ
+                  4) Оновлено Авторські лампочки, тепер працюють
+                  5) Оновлено лампу трикутник                       
+                  6) Оновлено УГН для ПТ-САУ   
                         
                          
             
@@ -33,16 +34,17 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.29</version>
+    <version>1.0.30</version>
     <changes>
-Version #1.0.29, date 27.10.2025:
- • updated: patch 1.0.29.
+Version #1.0.30, date 06.11.2025:
+ • updated: patch 2.0.1.1
                             • Updated: 2.0.1.1.
-                             1) RADIO UA UPDATED
-                             2) Updated WN8 without XVM
-                             3) Updated Author's bulbs, now working
-                             4) Updated triangle lamp
-                             5) Updated UGN for tank destroyers
+                             1) Updated SOUND MANAGER
+                             2) RADIO UA UPDATED
+                             3) Updated WN8 without XVM
+                             4) Updated Author's bulbs, now working
+                             5) Updated triangle lamp
+                             6) Updated UGN for tank destroyers
 
     </changes>
     <forumTheme></forumTheme>
@@ -58,15 +60,16 @@ Version #1.0.29, date 27.10.2025:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.29</version>
+    <version>1.0.30</version>
     <changes>
-Версия #1.0.29, от 27.10.2025:
+Версия #1.0.30, от 06.11.2025:
                    • Сборка обновлена для 2.0.1.1.
-                   1) Обновлено РАДИО ЮА
-                   1) Обновлено WN8 без ХВМ
-                   2) Обновлены Авторские лампочки, теперь работают
-                   3) Обновлено лампу треугольник
-                   4) Обновлен УГН для ПТ-САУ
+                   1) Обновлен МЕНЕДЖЕР ОЗВУЧОК
+                   2) Обновлено РАДИО ЮА
+                   3) Обновлено WN8 без ХВМ
+                   4) Обновлены Авторские лампочки, теперь работают
+                   5) Обновлено лампу треугольник
+                   6) Обновлен УГН для ПТ-САУ
     </changes> 
     <forumTheme></forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
