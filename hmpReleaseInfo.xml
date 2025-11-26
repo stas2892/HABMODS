@@ -3,14 +3,15 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.32</version>
+    <version>1.0.33</version>
                               
     <changes>
-Версія #1.0.32, від 26.11.2025:
+Версія #1.0.33, від 26.11.2025:
       
                   • Оновлено для патча 2.1.0.0.
-                  1)	НЕ ПРАЦЮЄ: ВІДМІТКИ, МАЙСТРИ В АНГАРІ, НОВИЙ ПРИЦІЛ
-	          2)  ОНОВЛЕННЯ ВИКАЧУ ЯК ТІКИ БУДУТЬ ОНОВЛЕНІ ЦІ МОДИ
+                  1) Оновлено відмітки на гарматі
+		  2) Оновлено майстри в гаражі
+                  3) Оновлено новий приціл    
                                           
                          
             
@@ -30,14 +31,16 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.32</version>
+    <version>1.0.33</version>
     <changes>
-Version #1.0.32, date 26.11.2025:
+Version #1.0.33, date 26.11.2025:
  • updated: patch 2.1.0.0
                             • Updated: 2.1.0.0.
-                             1)	НЕ ПРАЦЮЄ: ВІДМІТКИ, МАЙСТРИ В АНГАРІ, НОВИЙ ПРИЦІЛ
-				    2)  ОНОВЛЕННЯ ВИКАЧУ ЯК ТІКИ БУДУТЬ ОНОВЛЕНІ ЦІ МОДИ
                              
+1) Updated gun markings
+2) Updated garage craftsmen
+3) Updated new scope
+                       
     </changes>
     <forumTheme></forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
@@ -52,12 +55,13 @@ Version #1.0.32, date 26.11.2025:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.32</version>
+    <version>1.0.33</version>
     <changes>
-Версия #1.0.32, от 26.11.2025:
+Версия #1.0.33, от 26.11.2025:
                    • Сборка обновлена для 2.1.0.0.
-                   1)	НЕ ПРАЦЮЄ: ВІДМІТКИ, МАЙСТРИ В АНГАРІ, НОВИЙ ПРИЦІЛ
-				    2)  ОНОВЛЕННЯ ВИКАЧУ ЯК ТІКИ БУДУТЬ ОНОВЛЕНІ ЦІ МОДИ
+                   1) Обновлены отметки на пушке
+		   2) Обновлены мастера в гараже
+                   3) Обновлен новый прицел
                    
     </changes> 
     <forumTheme></forumTheme>
