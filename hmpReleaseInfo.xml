@@ -6,12 +6,20 @@
     <version>1.0.33</version>
                               
     <changes>
-Версія #1.0.33, від 26.11.2025:
+Версія #1.0.34, від 27.11.2025:
       
                   • Оновлено для патча 2.1.0.0.
-                  1) Оновлено відмітки на гарматі
-		  2) Оновлено майстри в гаражі
-                  3) Оновлено новий приціл    
+                  1) Додано: блокувальник спец екіпажу,
+                     тепер озвучки англійських екіпажів
+                     озвучуються озвучкою з модпаку, або 
+                     стандартною.
+                  2) Закрито: обмеження FPS який не давав
+                     зайти в налаштування! 
+                     Якщо був баг, віднови гру та встанови модпак
+                     заново!
+                  3) Оновлено відмітки на гарматі
+		  4) Оновлено майстри в гаражі
+                  5) Оновлено новий приціл    
                                           
                          
             
@@ -31,15 +39,23 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.33</version>
+    <version>1.0.34</version>
     <changes>
-Version #1.0.33, date 26.11.2025:
+Version #1.0.34, date 27.11.2025:
  • updated: patch 2.1.0.0
                             • Updated: 2.1.0.0.
-                             
-1) Updated gun markings
-2) Updated garage craftsmen
-3) Updated new scope
+                   1) Added: special crew blocker,
+                      now the voices of English crews
+                      are voiced by the voice from the modpack, or 
+                      standard.
+                    2) Closed: FPS limit that did not allow
+                       to go into the settings!
+                       If there was a bug, restart the game and install 
+                       the modpack again! 
+                 
+                    3) Updated gun markings
+                    4) Updated garage craftsmen
+                    5) Updated new scope
                        
     </changes>
     <forumTheme></forumTheme>
@@ -55,13 +71,21 @@ Version #1.0.33, date 26.11.2025:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.33</version>
+    <version>1.0.34</version>
     <changes>
-Версия #1.0.33, от 26.11.2025:
+Версия #1.0.34, от 27.11.2025:
                    • Сборка обновлена для 2.1.0.0.
-                   1) Обновлены отметки на пушке
-		   2) Обновлены мастера в гараже
-                   3) Обновлен новый прицел
+                   1) Добавлено: блокировщик спец экипажа,
+                     теперь озвучки английских экипажей
+                     озвучиваются озвучкой из модпака, или 
+                     стандартным.
+                   2) Закрыто: ограничение FPS который не давал
+                      зайти в настройку!
+                      Если был баг, возобнови игру и установи модпак
+                      заново!
+                   3) Обновлены отметки на пушке
+		   4) Обновлены мастера в гараже
+                   5) Обновлен новый прицел
                    
     </changes> 
     <forumTheme></forumTheme>
