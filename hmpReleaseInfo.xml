@@ -3,23 +3,18 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.33</version>
+    <version>1.0.37</version>
                               
     <changes>
-Версія #1.0.34, від 27.11.2025:
+Версія #1.0.37, від 04.11.2025:
       
-                  • Оновлено для патча 2.1.0.0.
-                  1) Додано: блокувальник спец екіпажу,
-                     тепер озвучки англійських екіпажів
-                     озвучуються озвучкою з модпаку, або 
-                     стандартною.
-                  2) Закрито: обмеження FPS який не давав
-                     зайти в налаштування! 
-                     Якщо був баг, віднови гру та встанови модпак
-                     заново!
-                  3) Оновлено відмітки на гарматі
-		  4) Оновлено майстри в гаражі
-                  5) Оновлено новий приціл    
+                  • Оновлено для патча 2.1.0.1.
+                  1) ОНОВЛЕНО: Білі гусениці, білі трупи 
+                              ( які спричиняли виліт з гри )
+                  2) ОНОВЛЕНО: ХВМ
+                  3) ОНОВЛЕНО: Світлофор
+		  4) ОНОВЛЕНО: Швидкий демонтаж обладнання                  
+                  5) ОНОВЛЕНО: Статистика WB8 без ХВМ ( викидало з гри )   
                                           
                          
             
@@ -39,23 +34,18 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.34</version>
+    <version>1.0.37</version>
     <changes>
-Version #1.0.34, date 27.11.2025:
- • updated: patch 2.1.0.0
-                            • Updated: 2.1.0.0.
-                   1) Added: special crew blocker,
-                      now the voices of English crews
-                      are voiced by the voice from the modpack, or 
-                      standard.
-                    2) Closed: FPS limit that did not allow
-                       to go into the settings!
-                       If there was a bug, restart the game and install 
-                       the modpack again! 
-                 
-                    3) Updated gun markings
-                    4) Updated garage craftsmen
-                    5) Updated new scope
+Version #1.0.37, date 04.11.2025:
+ • updated: patch 2.1.0.1
+                            • Updated: 2.1.0.1.
+                   1) UPDATED: White caterpillars, white corpses 
+                               (which caused a game crash)
+                   2) UPDATED: XVM
+                   3) UPDATED: Traffic light
+                   4) UPDATED: Quick dismantling of equipment 
+                   5) UPDATED: WB8 statistics without XVM 
+                               (which caused a game crash)
                        
     </changes>
     <forumTheme></forumTheme>
@@ -71,21 +61,17 @@ Version #1.0.34, date 27.11.2025:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.34</version>
+    <version>1.0.37</version>
     <changes>
-Версия #1.0.34, от 27.11.2025:
-                   • Сборка обновлена для 2.1.0.0.
-                   1) Добавлено: блокировщик спец экипажа,
-                     теперь озвучки английских экипажей
-                     озвучиваются озвучкой из модпака, или 
-                     стандартным.
-                   2) Закрыто: ограничение FPS который не давал
-                      зайти в настройку!
-                      Если был баг, возобнови игру и установи модпак
-                      заново!
-                   3) Обновлены отметки на пушке
-		   4) Обновлены мастера в гараже
-                   5) Обновлен новый прицел
+Версия #1.0.37, от 04.11.2025:
+                   • Сборка обновлена для 2.1.0.1.
+                   1) ОБНОВЛЕНО: Белые гусеницы, белые трупы 
+                              (которые приводили к вылету из игры)
+                  2) ОБНОВЛЕНО: ХВМ
+                  3) ОБНОВЛЕНО: Светофор
+		  4) ОБНОВЛЕНО: Быстрый демонтаж оборудования                  
+                  5) ОБНОВЛЕНО: Статистика WB8 без ХВМ (выбрасывало из игры)
+
                    
     </changes> 
     <forumTheme></forumTheme>
