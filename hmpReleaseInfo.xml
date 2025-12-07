@@ -6,8 +6,7 @@
     <version>1.0.39</version>
                               
     <changes>
-Версія #1.0.39, від 08.11.2025:
-      
+Версія #1.0.39, від 08.12.2025:
                   • Оновлено для патча 2.1.0.1.
                   
                   1) Відкрито: Білі гуслі та трупи 
@@ -18,7 +17,11 @@
                   5) Додано: Панель, яка діє змогу пересувати шкоду,
                        але змінюється панель там де, пошкоджено:
                        гуслі, гармата, бк та інше.
-                                          
+
+
+                       
+                     
+                        
                          
             
             
@@ -39,18 +42,20 @@
     <enabled>true</enabled>
     <version>1.0.39</version>
     <changes>
-Version #1.0.39, date 08.11.2025:
- • updated: patch 2.1.0.1
-                            • Updated: 2.1.0.1.
-                   1) Opened: White harp and corpses 
+Version #1.0.39, date 08.12.2025:
+ • updated: patch 1.0.39.
+                            • Updated: 2.1.0.1.  
+                             1) Opened: White harp and corpses 
                         (tested everything as normal, does not crash)
-                   2) UPDATED: XVM - from 06.12.2025
-                   3) UPDATED: WN8 for new tanks from boxes
-                   4) Added: Erection timer 
-                   5) Added: Panel, which allows you to move damage,
-                        but the panel changes where, damaged:
-                        harp, cannon, bk and more.
-                       
+                             2) UPDATED: XVM - from 06.12.2025
+                             3) UPDATED: WN8 for new tanks from boxes
+                             4) Added: Erection timer 
+                             5) Added: Panel, which allows you to move damage,
+                                but the panel changes where, damaged:
+                                harp, cannon, bk and more.
+
+   
+
     </changes>
     <forumTheme></forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
@@ -65,10 +70,10 @@ Version #1.0.39, date 08.11.2025:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.39/version>
+    <version>1.0.39</version>
     <changes>
-Версия #1.0.39, от 08.11.2025:
-                   • Сборка обновлена для 2.1.0.1.
+Версия #1.0.39, от 08.12.2025:
+   • Сборка обновлена для 2.1.0.1.
                    1) Открыто: Белые гусли и трупы 
                        ( тестировал все вроде бы норм, не вылетает )
                   2) ОБНОВЛЕНО: ХВМ – от 06.12.2025
@@ -78,7 +83,6 @@ Version #1.0.39, date 08.11.2025:
                        но меняется панель там где, повреждено:
                        гусли, пушка, бк и прочее.
 
-                   
     </changes> 
     <forumTheme></forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
