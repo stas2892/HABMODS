@@ -8,13 +8,12 @@
     <changes>
 Версія #1.0.41, від 16.10.2025:
                   • Оновлено для патча 2.1.0.2.  
-                  1) Оновлено кольрові іконки танків в бою
-                  2) Оновлено дані в П-МОД на 60 днів не скидання
-                     статистики
-                  3) Оновлено ХВМ 16.10.2025
-                  4) Оновлено ХП команд по ALT
-                  5) WN8 без ХВМ поки що не оновлено ( не працює )
-                  6) Оновлено майстри в ангарі
+                  1) Оновлено: ЗОЛОТІ ІКОНКИ ПРЕМ ТАНКІВ
+                  2) Оновлено: АНАЛІЗ БРОНІ В АНГАРІ
+                     ВИЛІТАЛА ПОМИЛКА В КІНЦІ ЗАВАНТАЖЕННЯ
+                  3) Відкрито: FPS лімітер в БОЮ
+                  4) Оновлено: тактичні міста на мапах
+                        
                        
                      
                         
@@ -41,14 +40,11 @@
 Version #1.0.41, date 16.10.2025:
  • updated: patch 1.0.41.
                             • Updated: 2.1.0.2.  
-                             1) Updated color icons of tanks in battle
-                             2) Updated data in P-MOD for 60 days without reset
-                                statistics
-                             3) Updated XVM 10/16/2025
-                             4) Updated HP commands for ALT
-                             5) WN8 without XVM has not been updated yet (does not work)
-                             6) Updated masters in the hangar
-   
+                             1) Updated: GOLDEN TANKS PREMIUM ICONS
+                             2) Updated: ARMOR ANALYSIS IN THE HANGAR
+                                ERROR FELL AT THE END OF LOADING
+                             3) Opened: FPS limiter in BATTLE
+                             4) Updated: Tactical cities on maps
 
     </changes>
     <forumTheme></forumTheme>
@@ -68,13 +64,12 @@ Version #1.0.41, date 16.10.2025:
     <changes>
 Версия #1.0.41, от 16.10.2025:
    • Сборка обновлена для 2.1.0.2.
-                   1) Обновлены цветные иконки танков в бою
-                   2) Обновлены данные в П-МОД на 60 дней не сброс
-                      статистики          
-                   3) Обновлено ХВМ 16.10.2025
-                   4) Обновлено ХП команд по ALT
-                   5) WN8 без ХВМ пока не обновлен ( не работает )
-                   6) Обновлены мастера в ангаре
+                   1) Обновлено: ЗОЛОТЫЕ ИКОНЫ ПРЕМ ТАНКОВ
+                   2) Обновлено: АНАЛИЗ БРОНИ В АНГАРЕ
+                     ВЫЛЕТАЛА ОШИБКА В КОНЦЕ ЗАГРУЗКИ
+                   3) Открыто: FPS лимитер в БОЮ
+                   4) Обновлено: тактические города на картах
+  
     </changes> 
     <forumTheme></forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
