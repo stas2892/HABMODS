@@ -3,16 +3,16 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.41</version>
+    <version>1.0.42</version>
                               
     <changes>
-Версія #1.0.41, від 16.10.2025:
+Версія #1.0.42, від 22.12.2025:
                   • Оновлено для патча 2.1.0.2.  
-                  1) Оновлено: ЗОЛОТІ ІКОНКИ ПРЕМ ТАНКІВ
-                  2) Оновлено: АНАЛІЗ БРОНІ В АНГАРІ
-                     ВИЛІТАЛА ПОМИЛКА В КІНЦІ ЗАВАНТАЖЕННЯ
-                  3) Відкрито: FPS лімітер в БОЮ
-                  4) Оновлено: тактичні міста на мапах
+                  1) Оновлено: ШКУРКИ ПРОБИВАННЯ ( НОВА ВЕРСІЯ )
+                     Встановлення через ком.рядок ( не лякайтесь )
+                  2) Оновлено: БІЛІ ТРУПИ ПІД НОВИЙ ТАНК ФАНТОМ
+                  3) Оновлено: ХВМ від 22.12.2025
+                  4) Оновлено: Топографію МІНІМАП
                         
                        
                      
@@ -35,16 +35,16 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.41</version>
+    <version>1.0.42</version>
     <changes>
-Version #1.0.41, date 16.10.2025:
- • updated: patch 1.0.41.
+Version #1.0.42, date 22.12.2025:
+ • updated: patch 1.0.42.
                             • Updated: 2.1.0.2.  
-                             1) Updated: GOLDEN TANKS PREMIUM ICONS
-                             2) Updated: ARMOR ANALYSIS IN THE HANGAR
-                                ERROR FELL AT THE END OF LOADING
-                             3) Opened: FPS limiter in BATTLE
-                             4) Updated: Tactical cities on maps
+                             1) Updated: PENETRATION SKINS (NEW VERSION)
+                             2) Updated: WHITE CORPSES UNDER THE NEW PHANTOM TANK
+                             3) Updated: HVM from 12/22/2025
+                             4) Updated: MINIMAP Topography
+
 
     </changes>
     <forumTheme></forumTheme>
@@ -60,15 +60,14 @@ Version #1.0.41, date 16.10.2025:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.41</version>
+    <version>1.0.42</version>
     <changes>
-Версия #1.0.41, от 16.10.2025:
+Версия #1.0.42 от 22.12.2025:
    • Сборка обновлена для 2.1.0.2.
-                   1) Обновлено: ЗОЛОТЫЕ ИКОНЫ ПРЕМ ТАНКОВ
-                   2) Обновлено: АНАЛИЗ БРОНИ В АНГАРЕ
-                     ВЫЛЕТАЛА ОШИБКА В КОНЦЕ ЗАГРУЗКИ
-                   3) Открыто: FPS лимитер в БОЮ
-                   4) Обновлено: тактические города на картах
+                   1) Обновлено: ШКУРКИ ПРОБЫВАНИЯ ( НОВАЯ ВЕРСИЯ )
+                   2) Обновлено: БЕЛЫЕ ТРУПЫ ПОД НОВЫЙ ТАНК ФАНТОМ
+                   3) Обновлено: ХВМ от 22.12.2025
+                   4) Обновлено: Топографию МИНИМАП
   
     </changes> 
     <forumTheme></forumTheme>
