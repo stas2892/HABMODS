@@ -3,15 +3,13 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.43</version>
+    <version>1.0.44</version>
                               
     <changes>
-Версія #1.0.43, від 26.12.2025:
+Версія #1.0.44, від 10.01.2026:
                   • Оновлено для патча 2.1.0.2.  
-                  1) Додано: всі зимові мапи 
-                  2) Додано: ЕЛО клану в бою з РОЗРАХУНКОМ
-                  3) Оновлено: ХВМ від 26.12.2025
-                                          
+                  1) Додано: АВТО ЗБІР ПЕСИКА ЧАФФІ
+                  
                        
                      
                         
@@ -33,15 +31,13 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.43</version>
+    <version>1.0.44</version>
     <changes>
-Version #1.0.43, date 26.12.2025:
- • updated: patch 1.0.43.
+Version #1.0.44, date 10.01.2026:
+ • updated: patch 1.0.44.
                             • Updated: 2.1.0.2.  
-                             1) Added: all winter maps 
-                             2) Added: Clan ELO in battle with ROZRAKHUNK
-                             3) Updated: XVM from 12/26/2025
-
+                             1) Added: AUTO ASSEMBLY OF THE DOG CHAFFEY 
+                                                          
 
     </changes>
     <forumTheme></forumTheme>
@@ -57,15 +53,13 @@ Version #1.0.43, date 26.12.2025:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.43</version>
+    <version>1.0.44</version>
     <changes>
-Версия #1.0.43 от 26.12.2025:
+Версия #1.0.44 от 10.01.2026:
    • Сборка обновлена для 2.1.0.2.
 
-                   1) Добавлено: все зимние карты 
-                   2) Добавлено: ЭЛО клана в бою с РАСЧЕТОМ
-                   3) Обновлено: ХВМ от 26.12.2025
-
+                   1) Добавлено: Авто сбор пса Чаффи 
+                   
     </changes> 
     <forumTheme></forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
