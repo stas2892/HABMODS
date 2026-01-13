@@ -3,11 +3,11 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.44</version>
+    <version>1.0.45</version>
                               
     <changes>
-Версія #1.0.44, від 10.01.2026:
-                  • Оновлено для патча 2.1.0.2.  
+Версія #1.0.45, від 14.01.2026:
+                  • Оновлено для патча 2.1.1.0.  
                   1) Додано: АВТО ЗБІР ПЕСИКА ЧАФФІ
                   
                        
@@ -31,11 +31,11 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.44</version>
+    <version>1.0.45</version>
     <changes>
-Version #1.0.44, date 10.01.2026:
- • updated: patch 1.0.44.
-                            • Updated: 2.1.0.2.  
+Version #1.0.45, date 14.01.2026:
+ • updated: patch 1.0.45.
+                            • Updated: 2.1.1.0.  
                              1) Added: AUTO ASSEMBLY OF THE DOG CHAFFEY 
                                                           
 
@@ -53,10 +53,10 @@ Version #1.0.44, date 10.01.2026:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.44</version>
+    <version>1.0.45</version>
     <changes>
-Версия #1.0.44 от 10.01.2026:
-   • Сборка обновлена для 2.1.0.2.
+Версия #1.0.45 от 14.01.2026:
+   • Сборка обновлена для 2.1.1.0.
 
                    1) Добавлено: Авто сбор пса Чаффи 
                    
