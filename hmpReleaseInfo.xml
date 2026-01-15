@@ -3,12 +3,28 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.45</version>
+    <version>1.0.46</version>
                               
     <changes>
-Версія #1.0.45, від 14.01.2026:
+Версія #1.0.46, від 15.01.2026:
                   • Оновлено для патча 2.1.1.0.  
-                  1) ОНОВЛЕНИЙ МОД ПАК, ЩОБ БЕЗ БАГІВ, БУДЕ ПІСЛЯ 9:30 РАНКУ
+                  1) ОНОВЛЕНО:
+                     ВІДМІТКА В ГАРАЖІ ТА БОЮ
+                     НОВИЙ ПРИЦІЛ
+                     ТВІКЕРИ
+                     ШКУРКИ ПРОБИВАННЯ
+                     ТАЙМЕР ЗВЕДЕННЯ
+                     ЗБІР СОБАЧОГО ПОХОДУ
+                     ЕЛО КЛАНУ В БОЮ
+                     БІЛІ КАТКИ ТА ТРУПИ
+                     ПОДВІЙНЕ КОЛО ПРИЦІЛУ
+                     ДИСТАНЦІЯ ДО ТАНКУ БЕЗ ХВМ НА 2 СТОРІНЦІ
+                     БОЙОВІ ПОПАДАННЯ ПО ТАНКУ І ПО ВАС
+                     РЕПЛЕЇ
+                     ДЕМОНТАЖ ОБЛАДНАННЯ
+                     ОЗВУЧКА: ДОДАНО ДЮК НЮКЕМ
+ 
+        
                   
                        
                      
@@ -31,13 +47,26 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.45</version>
+    <version>1.0.46</version>
     <changes>
-Version #1.0.45, date 14.01.2026:
- • updated: patch 1.0.45.
+Version #1.0.46, date 15.01.2026:
+ • updated: patch 1.0.46.
                             • Updated: 2.1.1.0.  
-                             1) UPDATED MOD PACK TO BE BUGS-FREE WILL BE AVAILABLE AFTER 9:30 AM
-                                                          
+                             1) UPDATED:
+                             Marks in the garage and in battle
+                             New reticle
+                             Tweakers
+                             Penetration skins
+                             Aim time timer
+                             Dogfight build
+                             Clan ELO in battle
+                             White tracks and wrecks
+                             Double reticle circle
+                             Distance to the tank without XVM on page 2
+                             Battle hits on the tank and on you
+                             Replays
+                             Equipment demounting
+                             Voiceover: Duke Nukem added                             
 
     </changes>
     <forumTheme></forumTheme>
@@ -53,13 +82,28 @@ Version #1.0.45, date 14.01.2026:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.45</version>
+    <version>1.0.46</version>
     <changes>
-Версия #1.0.45 от 14.01.2026:
+Версия #1.0.46 от 15.01.2026:
    • Сборка обновлена для 2.1.1.0.
 
-                   1) ОБНОВЛЕН МОД ПАК, ЧТОБЫ БЕЗ БАГОВ, БУДЕТ ПОСЛЕ 9:30 УТРА
-                   
+                   1) ОБНОВЛЕНО:
+                      Отметка в гараже и в бою
+Новый прицел
+Твикеры
+Скин пробития
+Таймер сведения
+Сбор собачьего боя
+Клановое ELO в бою
+Белые катки и трупы
+Двойной круг прицела
+Дистанция до танка без XVM на 2-й странице
+Боевые попадания по танку и по вам
+Реплеи
+Демонтаж оборудования
+Озвучка: добавлен Дюк Нюкем
+
+
     </changes> 
     <forumTheme></forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
