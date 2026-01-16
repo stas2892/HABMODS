@@ -3,10 +3,10 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.47</version>
+    <version>1.0.48</version>
                               
     <changes>
-Версія #1.0.47, від 16.01.2026:
+Версія #1.0.48, від 16.01.2026:
                   • Оновлено для патча 2.1.1.0.  
                   1) ОНОВЛЕНО ПРИЦІЛИ:
                      ВСІ, ОКРІМ: ЗМЕНШЕНЕ КОЛО ТА КРОСХАЇРС 
@@ -50,10 +50,10 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.47</version>
+    <version>1.0.48</version>
     <changes>
-Version #1.0.47, date 16.01.2026:
- • updated: patch 1.0.47.
+Version #1.0.48, date 16.01.2026:
+ • updated: patch 1.0.48.
                              UPDATE
  Crosshairs
 All crosshairs updated
@@ -89,9 +89,9 @@ Equipment demounting
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.47</version>
+    <version>1.0.48</version>
     <changes>
-Версия #1.0.47 от 16.01.2026:
+Версия #1.0.48 от 16.01.2026:
    • Сборка обновлена для 2.1.1.0.
 
                    ОБНОВЛЕНИЕ
