@@ -3,20 +3,15 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.50</version>
+    <version>1.0.51/version>
                               
     <changes>
-Версія #1.0.50, від 19.01.2026:
+Версія #1.0.51, від 22.01.2026:
                   • Оновлено для патча 2.0.1.0.  
                    ОНОВЛЕНО:
-                     1) ПРИЦІЛ: НОВИЙ ( ВІДОБРАЖАЄТЬСЯ З ПОДВІЙНИМ КОЛОМ )
-                     2) ПРИЦІЛИ: БЕДБОЙ ( ВІДОБРАЖАЄТЬСЯ 5 СНАРЯД )
-                     3) ОНОВЛЕНО ШКУРКИ ( НЕ МАЄ БАГУВАТИ НА МІНІ МАПІ, ТА ІКОНКА ТАНКУ )
-                     4) ОНОВЛЕНО: WN8 ПІД ARES
-
-                      ТЕХ ПІДТРИМКА НА САЙТІ 24/7    
-            
-            
+                     1) ЗИМОВІ МАПИ
+                   ЗАКРИТО:
+                     1) ШКУРКИ ( ЗАКРИТО ЧЕРЕЗ БАГУВАННЯ ХП У ВОРОГА ТА ІНШОГО )            
 
     </changes>
     <forumTheme></forumTheme>
@@ -32,16 +27,15 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.50</version>
+    <version>1.0.51</version>
     <changes>
-Version #1.0.50, date 19.01.2026:
- • updated: patch 1.0.50.
+Version #1.0.51, date 22.01.2026:
+ • updated: patch 1.0.51.
                             • Updated: 2.0.1.0.  
- 1) SCOPE: NEW (DISPLAYED WITH DOUBLE CIRCLE)
-2) SCOPE: BADBOI (DISPLAYED 5 SHELLS)
-3) SKINS UPDATED (SHOULDN'T BUG ON MINIMAP, AND TANK ICON)
-
-24/7 ONLINE TECHNICAL SUPPORT
+ UPDATED:
+1) WINTER MAPS
+CLOSED:
+1) SKINS ( CLOSED DUE TO ENEMY HP DRAINING AND OTHER )
                                  
                          
     </changes>
@@ -58,16 +52,14 @@ Version #1.0.50, date 19.01.2026:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.50</version>
+    <version>1.0.51</version>
     <changes>
-Версия #1.0.50, от 19.01.2026:
+Версия #1.0.51, от 22.01.2026:
    • Сборка обновлена для 2.0.1.0.
-                   1) ПРИЦЕЛ: НОВЫЙ ( ОТРАЖАЕТСЯ С ДВОЙНЫМ КРУГОМ )
-                     2) ПРИЦЕЛЫ: БЕДБОЙ ( ОТОБРАЖАЕТСЯ 5 СНАРЯД )
-                     3) ОБНОВЛЕНЫ КОЖИ ( НЕ ДОЛЖЕН БУАГИРОВАТЬ НА МИНЕ КАПИ, И ИКОНА ТАНКА )
-                     4) ОБНОВЛЕНО: WN8 ПОД ARES
-
-                      ТЕХ ПОДДЕРЖКА НА САЙТЕ 24/7
+                   ОБНОВЛЕНО:
+                     1) ЗИМНИЕ КАРТЫ
+                   ЗАКРЫТО:
+                     1) ШКУРКИ ( ЗАКРЫТЫЙ ЧЕРЕЗ БОЖДЕНИЕ ХП У ВРАГА И ДРУГОЕ )
 
     </changes> 
     <forumTheme></forumTheme>
