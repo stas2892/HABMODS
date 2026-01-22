@@ -7,11 +7,10 @@
                               
     <changes>
 Версія #1.0.51, від 22.01.2026:
-                  • Оновлено для патча 2.0.1.0.  
-                   ОНОВЛЕНО:
-                     1) ЗИМОВІ МАПИ
-                   ЗАКРИТО:
+                  • Оновлено для патча 2.0.1.0. 
+                       ЗАКРИТО:
                      1) ШКУРКИ ( ЗАКРИТО ЧЕРЕЗ БАГУВАННЯ ХП У ВОРОГА ТА ІНШОГО )            
+                       2) ЗИМОВІ МАПИ (поки що)
 
     </changes>
     <forumTheme></forumTheme>
@@ -31,13 +30,12 @@
     <changes>
 Version #1.0.51, date 22.01.2026:
  • updated: patch 1.0.51.
-                            • Updated: 2.0.1.0.  
- UPDATED:
-1) WINTER MAPS
-CLOSED:
-1) SKINS ( CLOSED DUE TO ENEMY HP DRAINING AND OTHER )
-                                 
-                         
+                            • Updated: 2.0.1.0.
+ 
+ CLOSED:
+1) SKINS ( CLOSED DUE TO ENEMY HP DRAINING AND OTHER ) 
+2) WINTER MAPS (for now)
+
     </changes>
     <forumTheme></forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
@@ -57,10 +55,9 @@ CLOSED:
 Версия #1.0.51, от 22.01.2026:
    • Сборка обновлена для 2.0.1.0.
                    ОБНОВЛЕНО:
-                     1) ЗИМНИЕ КАРТЫ
-                   ЗАКРЫТО:
-                     1) ШКУРКИ ( ЗАКРЫТЫЙ ЧЕРЕЗ БОЖДЕНИЕ ХП У ВРАГА И ДРУГОЕ )
-
+                     ЗАКРЫТО:
+                     1) КОЖИ ( ЗАКРЫТЫЙ ЧЕРЕЗ БОЖДЕНИЕ ХП У ВРАГА И ДРУГОЕ )            
+                       2) ЗИМНИЕ МАПЫ (пока)
     </changes> 
     <forumTheme></forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
