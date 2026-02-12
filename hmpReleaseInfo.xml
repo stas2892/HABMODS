@@ -3,20 +3,21 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.53  </version>
+    <version>1.0.41</version>
                               
     <changes>
-Версія #1.0.53 від 12.02.2025:
-                  • Оновлено для патча 2.1.1.1. 
-               1) P-MOD
-               2) XVM
-               3) Білі гесенеці та трупи ( для нових танків )
-               4) WN8 ( для нових танків )
-               5) Реплей менеджер
-               6) Менеджер попадань
-               7) Чухання ПСА ( автоматично )
- 
-             
+Версія #1.0.41, від 16.10.2025:
+                  • Оновлено для патча 2.1.0.2.  
+                  1) Оновлено: ЗОЛОТІ ІКОНКИ ПРЕМ ТАНКІВ
+                  2) Оновлено: АНАЛІЗ БРОНІ В АНГАРІ
+                     ВИЛІТАЛА ПОМИЛКА В КІНЦІ ЗАВАНТАЖЕННЯ
+                  3) Відкрито: FPS лімітер в БОЮ
+                  4) Оновлено: тактичні міста на мапах
+
+                       
+                     
+                        
+                         
             
             
 
@@ -34,18 +35,17 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.53</version>
+    <version>1.0.41</version>
     <changes>
-Version #1.0.53 date 12.02.2025:
- • updated: patch 1.0.53.
-                            • Updated: 2.1.1.1.  
-1) P-MOD
-2) XVM
-3) White Gessenets and Corpses (for new tanks)
-4) WN8 (for new tanks)
-5) Replay Manager
-6) Hit Manager
-7) PSA Scratching (automatic)
+Version #1.0.41, date 16.10.2025:
+ • updated: patch 1.0.41.
+                            • Updated: 2.1.0.2.  
+                             1) Updated: GOLDEN TANKS PREMIUM ICONS
+                             2) Updated: ARMOR ANALYSIS IN THE HANGAR
+                                ERROR FELL AT THE END OF LOADING
+                             3) Opened: FPS limiter in BATTLE
+                             4) Updated: Tactical cities on maps
+
    
 
     </changes>
@@ -62,21 +62,18 @@ Version #1.0.53 date 12.02.2025:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.53</version>
+    <version>1.0.41</version>
     <changes>
-Версия #1.0.53 от 12.02.2025:
-   • Сборка обновлена для 2.1.1.1.
+Версия #1.0.41, от 16.10.2025:
+   • Сборка обновлена для 2.1.0.2.
+                   1) Обновлено: ЗОЛОТЫЕ ИКОНЫ ПРЕМ ТАНКОВ
+                   2) Обновлено: АНАЛИЗ БРОНИ В АНГАРЕ
+                     ВЫЛЕТАЛА ОШИБКА В КОНЦЕ ЗАГРУЗКИ
+                   3) Открыто: FPS лимитер в БОЮ
+                   4) Обновлено: тактические города на картах
+  
 
-1) P-MOD
-2) XVM
-3) Белые гесенецы и трупы (для новых танков)
-4) WN8 (для новых танков)
-5) Реплей менеджер
-6) Менеджер попаданий
-7) Почесывание ПСА ( автоматически )
-
-
-    </changes>
+    </changes> 
     <forumTheme></forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
     <modsBlackList>
@@ -88,4 +85,16 @@ Version #1.0.53 date 12.02.2025:
     </xvm>
   </ru>
 
+<infoPanel>
+  <title>Деталі оновлення</title>
+  <wheelInfo>
+    <item label="Версія мода" value="5.8"/>
+    <item label="Патч гри" value="1.29.1.0"/>
+    <item label="Стан" value="Доступно оновлення"/>
+    <item label="Сайт" value="habwotmods.pp.ua"/>
+  </wheelInfo>
+</infoPanel>
+
 </hmpReleaseInfo.xml>
+
+
