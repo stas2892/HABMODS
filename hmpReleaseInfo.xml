@@ -3,12 +3,18 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.52</version>
+    <version>1.0.53/version>
                               
     <changes>
-Версія #1.0.52, від 12.02.2025:
-                  • Оновлено для патча 2.1.1.1.  
-                                         
+Версія #1.0.53 від 12.02.2025:
+                  • Оновлено для патча 2.1.1.1. 
+               1) P-MOD
+               2) XVM
+               3) Білі гесенеці та трупи ( для нових танків )
+               4) WN8 ( для нових танків )
+               5) Реплей менеджер
+               6) Менеджер попадань
+               7) Чухання ПСА ( автоматично )
                      
                         
                          
@@ -29,11 +35,18 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.52</version>
+    <version>1.0.53/version>
     <changes>
-Version #1.0.52, date 12.02.2025:
- • updated: patch 1.0.51.
+Version #1.0.53 date 12.02.2025:
+ • updated: patch 1.0.53.
                             • Updated: 2.1.1.1.  
+1) P-MOD
+2) XVM
+3) White Gessenets and Corpses (for new tanks)
+4) WN8 (for new tanks)
+5) Replay Manager
+6) Hit Manager
+7) PSA Scratching (automatic)
                                 
 
     </changes>
@@ -50,10 +63,18 @@ Version #1.0.52, date 12.02.2025:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.52</version>
+    <version>1.0.53/version>
     <changes>
-Версия #1.0.52, от 12.02.2025:
+Версия #1.0.53 от 12.02.2025:
    • Сборка обновлена для 2.1.1.1.
+
+1) P-MOD
+2) XVM
+3) Белые гесенецы и трупы (для новых танков)
+4) WN8 (для новых танков)
+5) Реплей менеджер
+6) Менеджер попаданий
+7) Почесывание ПСА ( автоматически )
                      
 
     </changes> 
