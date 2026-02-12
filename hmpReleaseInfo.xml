@@ -3,7 +3,7 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.53/version>
+    <version>1.0.53  </version>
                               
     <changes>
 Версія #1.0.53 від 12.02.2025:
@@ -15,11 +15,10 @@
                5) Реплей менеджер
                6) Менеджер попадань
                7) Чухання ПСА ( автоматично )
-                     
-                        
-                         
-            
+ 
              
+            
+            
 
     </changes>
     <forumTheme></forumTheme>
@@ -35,7 +34,7 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.53/version>
+    <version>1.0.53</version>
     <changes>
 Version #1.0.53 date 12.02.2025:
  • updated: patch 1.0.53.
@@ -47,7 +46,7 @@ Version #1.0.53 date 12.02.2025:
 5) Replay Manager
 6) Hit Manager
 7) PSA Scratching (automatic)
-                                
+   
 
     </changes>
     <forumTheme></forumTheme>
@@ -63,7 +62,7 @@ Version #1.0.53 date 12.02.2025:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.53/version>
+    <version>1.0.53</version>
     <changes>
 Версия #1.0.53 от 12.02.2025:
    • Сборка обновлена для 2.1.1.1.
@@ -75,9 +74,9 @@ Version #1.0.53 date 12.02.2025:
 5) Реплей менеджер
 6) Менеджер попаданий
 7) Почесывание ПСА ( автоматически )
-                     
 
-    </changes> 
+
+    </changes>
     <forumTheme></forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
     <modsBlackList>
@@ -89,16 +88,4 @@ Version #1.0.53 date 12.02.2025:
     </xvm>
   </ru>
 
-<infoPanel>
-  <title>Деталі оновлення</title>
-  <wheelInfo>
-    <item label="Версія мода" value="5.8"/>
-    <item label="Патч гри" value="1.29.1.0"/>
-    <item label="Стан" value="Доступно оновлення"/>
-    <item label="Сайт" value="habwotmods.pp.ua"/>
-  </wheelInfo>
-</infoPanel>
-
 </hmpReleaseInfo.xml>
-
-
