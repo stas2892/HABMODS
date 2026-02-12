@@ -3,18 +3,12 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.51</version>
+    <version>1.0.52</version>
                               
     <changes>
-Версія #1.0.51, від 22.10.2025:
-                  • Оновлено для патча 2.1.1.0.  
-                  1) Оновлено: ЗОЛОТІ ІКОНКИ ПРЕМ ТАНКІВ
-                  2) Оновлено: АНАЛІЗ БРОНІ В АНГАРІ
-                     ВИЛІТАЛА ПОМИЛКА В КІНЦІ ЗАВАНТАЖЕННЯ
-                  3) Відкрито: FPS лімітер в БОЮ
-                  4) Оновлено: тактичні міста на мапах
-
-                       
+Версія #1.0.52, від 12.02.2025:
+                  • Оновлено для патча 2.1.1.1.  
+                                         
                      
                         
                          
@@ -35,18 +29,12 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.51</version>
+    <version>1.0.52</version>
     <changes>
-Version #1.0.51, date 22.10.2025:
+Version #1.0.52, date 12.02.2025:
  • updated: patch 1.0.51.
-                            • Updated: 2.1.1.0.  
-                             1) Updated: GOLDEN TANKS PREMIUM ICONS
-                             2) Updated: ARMOR ANALYSIS IN THE HANGAR
-                                ERROR FELL AT THE END OF LOADING
-                             3) Opened: FPS limiter in BATTLE
-                             4) Updated: Tactical cities on maps
-
-   
+                            • Updated: 2.1.1.1.  
+                                
 
     </changes>
     <forumTheme></forumTheme>
@@ -62,16 +50,11 @@ Version #1.0.51, date 22.10.2025:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.51</version>
+    <version>1.0.52</version>
     <changes>
-Версия #1.0.51, от 22.10.2025:
-   • Сборка обновлена для 2.1.1.0.
-                   1) Обновлено: ЗОЛОТЫЕ ИКОНЫ ПРЕМ ТАНКОВ
-                   2) Обновлено: АНАЛИЗ БРОНИ В АНГАРЕ
-                     ВЫЛЕТАЛА ОШИБКА В КОНЦЕ ЗАГРУЗКИ
-                   3) Открыто: FPS лимитер в БОЮ
-                   4) Обновлено: тактические города на картах
-  
+Версия #1.0.52, от 12.02.2025:
+   • Сборка обновлена для 2.1.1.1.
+                     
 
     </changes> 
     <forumTheme></forumTheme>
