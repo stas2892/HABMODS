@@ -3,19 +3,21 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.53</version>
+    <version>1.0.54</version>
                               
     <changes>
-Версія #1.0.53, від 12.02.2026:
-                 
-                  • Оновлено для патча 2.1.1.1. 
-               1) P-MOD
-               2) XVM
-               3) Білі гесенеці та трупи ( для нових танків )
-               4) WN8 ( для нових танків )
-               5) Реплей менеджер
-               6) Менеджер попадань
-               7) Чухання ПСА ( автоматично )
+Версія #1.0.54, від 14.02.2026:
+                  • Оновлено для патча 2.1.1.1.  
+               1) P-MOD - Лампа 10 сек працює
+               2) Скидання статистики сесійної 60 днів
+               3) Оновлено озвучку ( додано нові )
+                  Warhammer 40000 та Star Wars
+               4) Додано лампочку по запиту військових
+                  Сталевий кордон
+
+                       
+                     
+                        
                          
             
             
@@ -34,21 +36,22 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.53</version>
+    <version>1.0.54</version>
     <changes>
-Version #1.0.53, date 12.02.2026:
- • updated: patch 1.0.53.
-                            • Updated: 2.1.1.1.  
-  1) P-MOD
-  2) XVM
-  3) White Gessenets and Corpses (for new tanks)
-  4) WN8 (for new tanks)
-  5) Replay Manager
-  6) Hit Manager
-  7) PSA Scratching (automatic)
+Version #1.0.54, date 14.02.2026:
+ • updated: patch 2.1.1.1.
+                                 • Updated: 2.1.1.1.  
+1) P-MOD - Lamp 10 sec working
+2) Reset session statistics 60 days
+3) Updated voice acting (new ones added)
+Warhammer 40000 and Star Wars
+4) Added lamp at the request of the military
+Steel Frontier
 
-                                 
-                         
+
+           
+   
+
     </changes>
     <forumTheme></forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
@@ -63,20 +66,19 @@ Version #1.0.53, date 12.02.2026:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.53</version>
+    <version>1.0.54</version>
     <changes>
-Версия #1.0.53, от 12.02.2026:
+Версия #1.0.54, от 14.02.2026:
    • Сборка обновлена для 2.1.1.1.
-  1) P-MOD
-  2) XVM
-  3) Белые гесенецы и трупы (для новых танков)
-  4) WN8 (для новых танков)
-  5) Реплей менеджер
-  6) Менеджер попаданий
-  7) Почесывание ПСА ( автоматически )
+1) P-MOD – Лампа 10 сек работает
+2) Сброс статистики сессионной 60 дней
+3) Обновлена ​​озвучка ( добавлены новые )
+   Warhammer 40000 и Star Wars
+4) Добавлена ​​лампочка по запросу военных
+   Стальная граница
+                 
 
-
-    </changes> 
+    </changes>
     <forumTheme></forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
     <modsBlackList>
