@@ -3,19 +3,12 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.54</version>
+    <version>1.0.55</version>
                               
     <changes>
-Версія #1.0.54, від 14.02.2026:
-                  • Оновлено для патча 2.1.1.1.  
-               1) P-MOD - Лампа 10 сек працює
-               2) Скидання статистики сесійної 60 днів
-               3) Оновлено озвучку ( додано нові )
-                  Warhammer 40000 та Star Wars
-               4) Додано лампочку по запиту військових
-                  Сталевий кордон
-
-                       
+Версія #1.0.55, від 19.02.2026:
+                  • Оновлено для патча 2.1.1.2.  
+                                      
                      
                         
                          
@@ -36,18 +29,11 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.54</version>
+    <version>1.0.55</version>
     <changes>
-Version #1.0.54, date 14.02.2026:
- • updated: patch 2.1.1.1.
-                                 • Updated: 2.1.1.1.  
-1) P-MOD - Lamp 10 sec working
-2) Reset session statistics 60 days
-3) Updated voice acting (new ones added)
-Warhammer 40000 and Star Wars
-4) Added lamp at the request of the military
-Steel Frontier
-
+Version #1.0.55, date 19.02.2026:
+ • updated: patch 2.1.1.2.
+                                 • Updated: 2.1.1.2.  
 
            
    
@@ -66,16 +52,10 @@ Steel Frontier
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.54</version>
+    <version>1.0.55</version>
     <changes>
-Версия #1.0.54, от 14.02.2026:
-   • Сборка обновлена для 2.1.1.1.
-1) P-MOD – Лампа 10 сек работает
-2) Сброс статистики сессионной 60 дней
-3) Обновлена ​​озвучка ( добавлены новые )
-   Warhammer 40000 и Star Wars
-4) Добавлена ​​лампочка по запросу военных
-   Стальная граница
+Версия #1.0.55, от 19.02.2026:
+   • Сборка обновлена для 2.1.1.2.
                  
 
     </changes>
