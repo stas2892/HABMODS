@@ -3,14 +3,19 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.55</version>
+    <version>1.0.56</version>
                               
     <changes>
-Версія #1.0.55, від 19.02.2026:
+Версія #1.0.56, від 20.02.2026:
                   • Оновлено для патча 2.1.1.2.  
-                                      
-                     
-                        
+                    1) Швидкий ремонт ( гвинтик )           
+                    Додано:
+                    1) Фіолетові дереве та кущі
+                    Відкрито:
+                    1) Шкурки ( зони пробивання )
+                       Може багувати раз в бою, 
+                       зникають ХП ворога та союзника
+                       раз на 10 боїв 
                          
             
             
@@ -29,12 +34,19 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.55</version>
+    <version>1.0.56</version>
     <changes>
-Version #1.0.55, date 19.02.2026:
+Version #1.0.56, date 20.02.2026:
  • updated: patch 2.1.1.2.
                                  • Updated: 2.1.1.2.  
-
+                         1) Quick Repair ( Cog ) 
+                            Added:
+                         1) Purple Trees and Bushes
+                            Opened:
+                         1) Skins ( Penetration Zones )
+                            Can bug once per battle, 
+                            enemy and ally HP disappear
+                            once every 10 battles
            
    
 
@@ -52,11 +64,18 @@ Version #1.0.55, date 19.02.2026:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.55</version>
+    <version>1.0.56</version>
     <changes>
-Версия #1.0.55, от 19.02.2026:
+Версия #1.0.56, от 20.02.2026:
    • Сборка обновлена для 2.1.1.2.
-                 
+    1) Быстрый ремонт (винтик)           
+       Добавлено:
+    1) Фиолетовые деревья и кустарники
+       Открыто:
+    1) Шкурки (зоны пробивания)
+       Может болтать раз в бою, 
+       исчезают ХП врага и союзника
+       раз в 10 боев             
 
     </changes>
     <forumTheme></forumTheme>
