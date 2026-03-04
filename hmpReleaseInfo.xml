@@ -3,14 +3,18 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.59</version>
+    <version>1.0.60</version>
                               
     <changes>
-Версія #1.0.59, від 04.03.2026:
+Версія #1.0.60, від 05.03.2026:
                   • Оновлено для патча 2.2.0.0.  
                     1) Оновлено: приціли
-                    2) Відмітки відкрито та оновлено
-                    3) Кольорові іконки танків в бою
+                       Дамаклів меч, шведський та снайпер
+                    2) Оновлено: ХП у вухах та статистика
+                       ВН8 без ХВМ
+                    3) Оновлено: Автоповернення обладнання 
+                       ВОТ+ 
+                    4) відкрито: Приціл зменешене коло
 
     </changes>
     <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
@@ -26,14 +30,18 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.59</version>
+    <version>1.0.60</version>
     <changes>
-Version #1.0.59, date 04.03.2026:
+Version #1.0.60, date 05.03.2026:
  • updated: patch 2.2.0.0.
                                  • Updated: 2.2.0.0.  
                           1) Updated: Sights
-2) Markings opened and updated
-3) Colored icons of tanks in battle
+Sword of Damac, Swedish and Sniper
+2) Updated: HP in ears and statistics
+VN8 without XVM
+3) Updated: Autoreturn of equipment 
+BOT+ 
+4) Opened: Scope reduced circle
 
     </changes>
     <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
@@ -49,13 +57,17 @@ Version #1.0.59, date 04.03.2026:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.59</version>
+    <version>1.0.60</version>
     <changes>
-Версия #1.0.59, от 04.03.2026:
+Версия #1.0.60, от 05.03.2026:
    • Сборка обновлена для 2.2.0.0.
      1) Обновлено: прицелы
- 2) Отметки открыты и обновлены
-3) Цветные иконки танков в бою
+Дамаклов меч, шведский и снайпер
+ 2) Обновлено: ХП в ушах и статистика
+ ВН8 без ХВМ
+3) Обновлено: Автовозврат оборудования 
+ВОТ+ 
+4) открыт: Прицел уменьшен круг
 
 
     </changes>
