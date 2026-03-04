@@ -3,12 +3,15 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.58</version>
+    <version>1.0.59</version>
                               
     <changes>
-Версія #1.0.58, від 25.02.2026:
-                  • Оновлено для патча 2.1.1.2.  
-                    1) Відкрито зимові мапи
+Версія #1.0.59, від 04.03.2026:
+                  • Оновлено для патча 2.2.0.0.  
+                    1) Оновлено: приціли
+                    2) Відмітки відкрито та оновлено
+                    3) Кольорові іконки танків в бою
+
     </changes>
     <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
@@ -23,13 +26,14 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.58</version>
+    <version>1.0.59</version>
     <changes>
-Version #1.0.58, date 25.02.2026:
- • updated: patch 2.1.1.2.
-                                 • Updated: 2.1.1.2.  
-                          1) Updated the marking on the gun
-                          2) Updated Purple Trees
+Version #1.0.59, date 04.03.2026:
+ • updated: patch 2.2.0.0.
+                                 • Updated: 2.2.0.0.  
+                          1) Updated: Sights
+2) Markings opened and updated
+3) Colored icons of tanks in battle
 
     </changes>
     <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
@@ -45,11 +49,13 @@ Version #1.0.58, date 25.02.2026:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.58</version>
+    <version>1.0.59</version>
     <changes>
-Версия #1.0.58, от 25.02.2026:
-   • Сборка обновлена для 2.1.1.2.
-     1) Открыто зиние карты
+Версия #1.0.59, от 04.03.2026:
+   • Сборка обновлена для 2.2.0.0.
+     1) Обновлено: прицелы
+ 2) Отметки открыты и обновлены
+3) Цветные иконки танков в бою
 
 
     </changes>
