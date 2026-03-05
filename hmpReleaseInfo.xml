@@ -3,19 +3,15 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.60</version>
+    <version>1.0.61</version>
                               
     <changes>
-Версія #1.0.60, від 05.03.2026:
+Версія #1.0.61, від 06.03.2026:
                   • Оновлено для патча 2.2.0.0.  
-                    1) Оновлено: приціли
-                       Дамаклів меч, шведський та снайпер
-                    2) Оновлено: ХП у вухах та статистика
-                       ВН8 без ХВМ
-                    3) Оновлено: Автоповернення обладнання 
-                       ВОТ+ 
-                    4) відкрито: Приціл зменешене коло
-                    5) Оновлено: Автоповернення екіпажу
+                    1) Оновлено: Білі гусениці та трупи
+                    2) Оновлено: Твікери ( прибирання туманів
+                       вихлопних газів, пострілів, хмар та інше )  
+                    3) Гвинтик ( швидкий ремонт по 1 клавіші )                  
 
     </changes>
     <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
@@ -31,19 +27,15 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.60</version>
+    <version>1.0.61</version>
     <changes>
-Version #1.0.60, date 05.03.2026:
+Version #1.0.61, date 06.03.2026:
  • updated: patch 2.2.0.0.
                                  • Updated: 2.2.0.0.  
-                          1) Updated: Sights
-Sword of Damac, Swedish and Sniper
-2) Updated: HP in ears and statistics
-VN8 without XVM
-3) Updated: Autoreturn of equipment 
-BOT+ 
-4) Opened: Scope reduced circle
-5) Updated: Crew auto-return
+                          1) Updated: White caterpillars and corpses
+2) Updated: Tweakers (removal of fog
+exhaust gases, gunshots, clouds, etc.) 
+3) Cog (quick repair with 1 key)
 
     </changes>
     <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
@@ -59,18 +51,13 @@ BOT+
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.60</version>
+    <version>1.0.61/version>
     <changes>
-Версия #1.0.60, от 05.03.2026:
+Версия #1.0.61, от 06.03.2026:
    • Сборка обновлена для 2.2.0.0.
-     1) Обновлено: прицелы
-Дамаклов меч, шведский и снайпер
- 2) Обновлено: ХП в ушах и статистика
- ВН8 без ХВМ
-3) Обновлено: Автовозврат оборудования 
-ВОТ+ 
-4) открыт: Прицел уменьшен круг
-5) Обновлено: Автовозвращение экипажа
+     1) Обновлено: Белые гусеницы и трупы
+ 2) Обновлено: Твикеры (уборка туманов, выхлопных газов, выстрелов, облаков и прочее)  
+ 3) Винтик (быстрый ремонт по 1 клавише)
 
 
     </changes>
