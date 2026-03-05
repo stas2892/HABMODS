@@ -3,18 +3,25 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.61</version> 
+    <version>1.0.61</version>
                               
     <changes>
 Версія #1.0.61, від 06.03.2026:
                   • Оновлено для патча 2.2.0.0.  
-                    1) Оновлено: Білі гусениці та трупи
+               1) Оновлено: Білі гусениці та трупи
                     2) Оновлено: Твікери ( прибирання туманів
                        вихлопних газів, пострілів, хмар та інше )  
-                    3) Гвинтик ( швидкий ремонт по 1 клавіші )                  
+                    3) Гвинтик ( швидкий ремонт по 1 клавіші )    
+
+                       
+                     
+                        
+                         
+            
+            
 
     </changes>
-    <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
+    <forumTheme></forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
     <modsBlackList>
     </modsBlackList>
@@ -32,13 +39,17 @@
 Version #1.0.61, date 06.03.2026:
  • updated: patch 2.2.0.0.
                                  • Updated: 2.2.0.0.  
-                          1) Updated: White caterpillars and corpses
+1) Updated: White caterpillars and corpses
 2) Updated: Tweakers (removal of fog
 exhaust gases, gunshots, clouds, etc.) 
 3) Cog (quick repair with 1 key)
 
+
+           
+   
+
     </changes>
-    <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
+    <forumTheme></forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
     <modsBlackList>
     </modsBlackList>
@@ -51,17 +62,18 @@ exhaust gases, gunshots, clouds, etc.)
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.61/version>
+    <version>1.0.61</version>
     <changes>
 Версия #1.0.61, от 06.03.2026:
    • Сборка обновлена для 2.2.0.0.
-     1) Обновлено: Белые гусеницы и трупы
+1) Обновлено: Белые гусеницы и трупы
  2) Обновлено: Твикеры (уборка туманов, выхлопных газов, выстрелов, облаков и прочее)  
  3) Винтик (быстрый ремонт по 1 клавише)
 
+                 
 
     </changes>
-    <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
+    <forumTheme></forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
     <modsBlackList>
     </modsBlackList>
