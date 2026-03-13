@@ -3,15 +3,17 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.63</version>
+    <version>1.0.64</version>
                               
     <changes>
-Версія #1.0.63, від 13.03.2026:
-                  • Оновлено для патча 2.2.0.0.  
-               1) Оновлено: 
+Версія #1.0.64, від 14.03.2026:
+                  • Оновлено для патча 2.2.0.0. 
+               1) Додано:
+                  Помічник сталевого мисливця
+               2) Оновлено: 
                   XVM
                   WN8 на Каме та Бур'ян
-               2) Оновлено:
+               3) Оновлено:
                   Шкурки пробивань ( має бути без багів )                      
                      
                         
@@ -33,15 +35,17 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.63</version>
+    <version>1.0.64</version>
     <changes>
-Version #1.0.63, date 13.03.2026:
+Version #1.0.64, date 14.03.2026:
  • updated: patch 2.2.0.0.
-                                 • Updated: 2.2.0.0.  
-1) Updated: 
+                                 • Updated: 2.2.0.0.
+1) Added:
+Steel Hunter's Assistant  
+2) Updated: 
 XVM
 WN8 on Kama and Buryan
-2) Updated:
+3) Updated:
 Skins for penetrations ( should be bug-free )
 
            
@@ -61,14 +65,16 @@ Skins for penetrations ( should be bug-free )
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.63</version>
+    <version>1.0.64</version>
     <changes>
-Версия #1.0.63, от 13.03.2026:
+Версия #1.0.64, от 14.03.2026:
    • Сборка обновлена для 2.2.0.0.
-1) Обновлено: 
+1) Добавлено:
+   Помощник стального охотника
+2) Обновлено: 
    XVM
    WN8 на Каме и Бурьян
-2) Обновлено:
+3) Обновлено:
    Шкурки пробивок ( должно быть без багов )
                  
 
