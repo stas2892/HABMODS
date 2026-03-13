@@ -3,16 +3,16 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.62</version>
+    <version>1.0.63</version>
                               
     <changes>
-Версія #1.0.62, від 08.03.2026:
+Версія #1.0.63, від 13.03.2026:
                   • Оновлено для патча 2.2.0.0.  
                1) Оновлено: 
-                  Менеджер ангарів
-                  Таймер зведення
-               2) Додано:
-                  Кольорові відмітки на гарматі                       
+                  XVM
+                  WN8 на Каме та Бур'ян
+               2) Оновлено:
+                  Шкурки пробивань ( має бути без багів )                      
                      
                         
                          
@@ -33,17 +33,16 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.62</version>
+    <version>1.0.63</version>
     <changes>
-Version #1.0.62, date 08.03.2026:
+Version #1.0.63, date 13.03.2026:
  • updated: patch 2.2.0.0.
                                  • Updated: 2.2.0.0.  
-1) Updated:
-    Hangar Manager
-    Aim Timer
-
-2) Added:
-    Colored Gun Marks
+1) Updated: 
+XVM
+WN8 on Kama and Buryan
+2) Updated:
+Skins for penetrations ( should be bug-free )
 
            
    
@@ -62,16 +61,15 @@ Version #1.0.62, date 08.03.2026:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.62</version>
+    <version>1.0.63</version>
     <changes>
-Версия #1.0.62, от 08.03.2026:
+Версия #1.0.63, от 13.03.2026:
    • Сборка обновлена для 2.2.0.0.
-1) Обновлено:
-    Менеджер ангаров
-    Таймер сведения
-
-2) Добавлено:
-    Цветные отметки на орудии
+1) Обновлено: 
+   XVM
+   WN8 на Каме и Бурьян
+2) Обновлено:
+   Шкурки пробивок ( должно быть без багов )
                  
 
     </changes>
