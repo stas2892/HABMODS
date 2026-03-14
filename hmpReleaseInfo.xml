@@ -3,18 +3,16 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.64</version>
+    <version>1.0.65</version>
                               
     <changes>
-Версія #1.0.64, від 14.03.2026:
+Версія #1.0.65, від 15.03.2026:
                   • Оновлено для патча 2.2.0.0. 
-               1) Додано:
+               1) Перероблено:
+                  ХП ВУХ - тепер фіксуються 
+               2) Додано:
                   Помічник сталевого мисливця
-               2) Оновлено: 
-                  XVM
-                  WN8 на Каме та Бур'ян
-               3) Оновлено:
-                  Шкурки пробивань ( має бути без багів )                      
+                                     
                      
                         
                          
@@ -35,19 +33,15 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.64</version>
+    <version>1.0.65</version>
     <changes>
-Version #1.0.64, date 14.03.2026:
+Version #1.0.65, date 15.03.2026:
  • updated: patch 2.2.0.0.
                                  • Updated: 2.2.0.0.
-1) Added:
-Steel Hunter's Assistant  
-2) Updated: 
-XVM
-WN8 on Kama and Buryan
-3) Updated:
-Skins for penetrations ( should be bug-free )
-
+1) Reworked:
+HP VUH - now fixed 
+2) Added:
+Steel Hunter's Assistant
            
    
 
@@ -65,17 +59,14 @@ Skins for penetrations ( should be bug-free )
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.64</version>
+    <version>1.0.65</version>
     <changes>
-Версия #1.0.64, от 14.03.2026:
+Версия #1.0.65, от 15.03.2026:
    • Сборка обновлена для 2.2.0.0.
-1) Добавлено:
-   Помощник стального охотника
-2) Обновлено: 
-   XVM
-   WN8 на Каме и Бурьян
-3) Обновлено:
-   Шкурки пробивок ( должно быть без багов )
+ 1) Переработано:
+ ХП УШИ - теперь фиксируются 
+ 2) Добавлено:
+ Помощник стального охотника
                  
 
     </changes>
