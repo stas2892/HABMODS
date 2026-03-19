@@ -3,19 +3,24 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.65</version>
+    <version>1.0.67</version>
                               
     <changes>
-Версія #1.0.65, від 15.03.2026:
-                  • Оновлено для патча 2.2.0.0. 
-               1) Перероблено:
-                  ХП ВУХ - тепер фіксуються 
+Версія #1.0.67 від 19.03.2026:
+                  • Оновлено для патча 2.2.0.1. 
+               1) Оновлено: 
+                  ХВМ
+                  P-MOD
                2) Оновлено:
-                  Кольорові іконки прем техніки
-                  нові танки: каме та бур'ян
-
-               3) Додано:
-                  Помічник сталевого мисливця
+                  Збір Пса ( автоматично )
+                  Подвійне коло
+                  Менеджер влучання
+                  Менеджер реплеїв
+               Увага! Якщо не вантажить з сайту, 
+               натисніть комбінацію клавіш на сайті:
+               Ctrl+Shift+R сайт оновиться і вантаж.
+               Але очистіть кеш браузера після маніпуляцій!
+                
                                      
                      
                         
@@ -37,19 +42,23 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.65</version>
+    <version>1.0.67</version>
     <changes>
-Version #1.0.65, date 15.03.2026:
- • updated: patch 2.2.0.0.
-                                 • Updated: 2.2.0.0.
-1) Reworked:
-HP VUH - now fixed 
+Version #1.0.67, date 19.03.2026:
+ • updated: patch 2.2.0.1.
+                                 • Updated: 2.2.0.1.
+1) Updated: 
+XVM
+P-MOD
 2) Updated:
-Colored icons of premium vehicles
-New tanks: Kame and Weed
-3) Added:
-Steel Hunter's Assistant
-           
+Dog Collection (automatically)
+Double Circle
+Hit Manager
+Replay Manager
+Attention! If it does not load from the site, 
+press the key combination on the site:
+Ctrl+Shift+R the site will refresh and load.
+But clear the browser cache after manipulations!           
    
 
     </changes>
@@ -66,17 +75,22 @@ Steel Hunter's Assistant
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.65</version>
+    <version>1.0.67</version>
     <changes>
-Версия #1.0.65, от 15.03.2026:
-   • Сборка обновлена для 2.2.0.0.
- 1) Переработано:
- ХП УШИ - теперь фиксируются
+Версия #1.0.67, от 19.03.2026:
+   • Сборка обновлена для 2.2.0.1.
+ 1) Обновлено: 
+    ХВМ
+    P-MOD
  2) Обновлено:
- Цветные иконки премии техники
- новые танки: каме и сорняк 
- 3) Добавлено:
- Помощник стального охотника
+    Сбор ПСА ( автоматически )
+    Двойной круг
+    Менеджер попадания
+    Менеджер реплеев
+ 3) Внимание! Если не грузит с сайта, 
+    нажмите комбинацию клавиш на сайте:
+    Ctrl+Shift+R сайт обновится и груз.
+    Но очистите кэш браузера после манипуляций!
                  
 
     </changes>
