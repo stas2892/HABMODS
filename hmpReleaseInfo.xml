@@ -3,25 +3,17 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.67</version>
+    <version>1.0.68</version>
                               
     <changes>
-Версія #1.0.67, від 19.03.2026:
-                  • Оновлено для патча 2.2.0.1.  
-               1) Оновлено: 
-                  ХВМ
-                  P-MOD
-               2) Оновлено:
-                  Збір Пса ( автоматично )
-                  Подвійне коло
-                  Менеджер влучання
-                  Менеджер реплеїв
-               Увага! Якщо не вантажить з сайту, 
-               натисніть комбінацію клавіш на сайті:
-               Ctrl+Shift+R сайт оновиться і вантаж.
-               Але очистіть кеш браузера після маніпуляцій!
-
-                       
+Версія #1.0.68, від 27.03.2026:
+                  • Оновлено для патча 2.2.0.2.  
+               1) Додано:
+                  Майстер в ангарі
+               2) Увага! Якщо не вантажить із сайту, 
+                  натисніть комбінацію клавіш на сайті:
+                  Ctrl+Shift+R сайт оновиться і вантаж.
+                  Але почистіть кеш браузера після маніпуляцій!                         
                      
                         
                          
@@ -42,24 +34,17 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.67</version>
+    <version>1.0.68</version>
     <changes>
-Version #1.0.67, date 19.03.2026:
+Version #1.0.68, date 27.03.2026:
  • updated: patch 2.2.0.1.
-                                 • Updated: 2.2.0.1.  
-1) Updated: 
-XVM
-P-MOD
-2) Updated:
-Dog Collection (automatically)
-Double Circle
-Hit Manager
-Replay Manager
-Attention! If it does not load from the site, 
-press the key combination on the site:
-Ctrl+Shift+R the site will refresh and load.
-But clear the browser cache after manipulations!
-           
+                                 • Updated: 2.2.0.2.  
+1) Added:
+Hangar Master 
+2) Important! If the website doesn't load,
+press the key combination on the website:
+Ctrl+Shift+R. The website will refresh and load.
+But be sure to clear your browser cache afterward!          
    
 
     </changes>
@@ -76,19 +61,14 @@ But clear the browser cache after manipulations!
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.67</version>
+    <version>1.0.68</version>
     <changes>
-Версия #1.0.67, от 19.03.2026:
-   • Сборка обновлена для 2.2.0.1.
-1) Обновлено: 
-    ХВМ
-    P-MOD
- 2) Обновлено:
-    Сбор ПСА ( автоматически )
-    Двойной круг
-    Менеджер попадания
-    Менеджер реплеев
- 3) Внимание! Если не грузит с сайта, 
+Версия #1.0.68, от 27.03.2026:
+   • Сборка обновлена для 2.2.0.2.
+1) Добавлено:
+ Мастер в ангаре
+
+2) Внимание! Если не грузит с сайта, 
     нажмите комбинацию клавиш на сайте:
     Ctrl+Shift+R сайт обновится и груз.
     Но очистите кэш браузера после манипуляций!
