@@ -3,10 +3,10 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.68</version>
+    <version>1.0.67</version>
                               
     <changes>
-Версія #1.0.68, від 27.03.2026:
+Версія #1.0.67, від 27.03.2026:
                   • Оновлено для патча 2.2.0.2.  
                1) Додано:
                   Майстер в ангарі
@@ -34,9 +34,9 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.68</version>
+    <version>1.0.67</version>
     <changes>
-Version #1.0.68, date 27.03.2026:
+Version #1.0.67, date 27.03.2026:
  • updated: patch 2.2.0.1.
                                  • Updated: 2.2.0.2.  
 1) Added:
@@ -61,9 +61,9 @@ But be sure to clear your browser cache afterward!
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.68</version>
+    <version>1.0.67</version>
     <changes>
-Версия #1.0.68, от 27.03.2026:
+Версия #1.0.67, от 27.03.2026:
    • Сборка обновлена для 2.2.0.2.
 1) Добавлено:
  Мастер в ангаре
