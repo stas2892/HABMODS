@@ -3,17 +3,15 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.67</version>
+    <version>1.0.68</version>
                               
     <changes>
-Версія #1.0.67, від 27.03.2026:
+Версія #1.0.68, від 13.04.2026:
                   • Оновлено для патча 2.2.0.2.  
-               1) Додано:
-                  Майстер в ангарі
-               2) Увага! Якщо не вантажить із сайту, 
-                  натисніть комбінацію клавіш на сайті:
-                  Ctrl+Shift+R сайт оновиться і вантаж.
-                  Але почистіть кеш браузера після маніпуляцій!                         
+               1) Оновлено: 
+                  P-MOD багувала кнопка Esc
+                  Основний калібр
+                  3D стилі                     
                      
                         
                          
@@ -34,17 +32,15 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.67</version>
+    <version>1.0.68</version>
     <changes>
-Version #1.0.67, date 27.03.2026:
- • updated: patch 2.2.0.1.
+Version #1.0.68, date 13.04.2026:
+ • updated: patch 2.2.0.2.
                                  • Updated: 2.2.0.2.  
-1) Added:
-Hangar Master 
-2) Important! If the website doesn't load,
-press the key combination on the website:
-Ctrl+Shift+R. The website will refresh and load.
-But be sure to clear your browser cache afterward!          
+1) Updated: 
+P-MOD bugged Esc button
+Main caliber
+3D styles      
    
 
     </changes>
@@ -61,18 +57,15 @@ But be sure to clear your browser cache afterward!
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.67</version>
+    <version>1.0.68</version>
     <changes>
-Версия #1.0.67, от 27.03.2026:
-   • Сборка обновлена для 2.2.0.2.
-1) Добавлено:
- Мастер в ангаре
+Версия #1.0.68, от 13.04.2026:
 
-2) Внимание! Если не грузит с сайта, 
-    нажмите комбинацию клавиш на сайте:
-    Ctrl+Shift+R сайт обновится и груз.
-    Но очистите кэш браузера после манипуляций!
-                 
+   • Сборка обновлена для 2.2.0.2.
+1) Обновлено: 
+P-MOD багировала кнопка Esc
+Основной калибр
+3D стили                 
 
     </changes>
     <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
