@@ -3,13 +3,15 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.69</version>
+    <version>1.0.70</version>
                               
     <changes>
-Версія #1.0.69, від 17.04.2026:
-                  • Оновлено для патча 2.2.0.2.  
+Версія #1.0.70, від 22.04.2026:
+                  • Оновлено для патча 2.2.1.0.  
                1) Оновлено: 
-                  Зменшене коло зведення                  
+                  Відмітка на гарматі 
+                  Всі приціли
+                                   
                      
                         
                          
@@ -30,13 +32,15 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.69</version>
+    <version>1.0.70</version>
     <changes>
-Version #1.0.69, date 17.04.2026:
+Version #1.0.70, date 22.04.2026:
  • updated: patch 2.2.0.2.
-                                 • Updated: 2.2.0.2.  
+                                 • Updated: 2.2.1.0.  
  
-1) Updated: Reduced build circle  
+1) Updated: 
+Mark on the gun
+  
    
 
     </changes>
@@ -53,13 +57,14 @@ Version #1.0.69, date 17.04.2026:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.69</version>
+    <version>1.0.70</version>
     <changes>
-Версия #1.0.69, от 17.04.2026:
+Версия #1.0.70, от 22.04.2026:
 
-   • Сборка обновлена для 2.2.0.2.
+   • Сборка обновлена для 2.2.1.0.
  
-1) Обновлено: Уменьшенный круг возведения   
+1) Обновлено: Отметка на стволе
+              Все прицели   
 
     </changes>
     <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
