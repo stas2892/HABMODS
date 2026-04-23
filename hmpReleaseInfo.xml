@@ -6,7 +6,7 @@
     <version>1.0.71</version>
                               
     <changes>
-Версія #1.0.71, від 23.04.2026:
+Версія #1.0.71, від 24.04.2026:
                   • Оновлено для патча 2.2.1.1.  
                1) Оновлено: 
                   P-MOD 
@@ -17,7 +17,7 @@
                3) Згодом відкриються озвучки лампи:
                   Культурні
                   18+
-                                   
+
                      
                         
                          
@@ -40,10 +40,9 @@
     <enabled>true</enabled>
     <version>1.0.71</version>
     <changes>
-Version #1.0.71, date 23.04.2026:
+Version #1.0.71, date 24.04.2026:
  • updated: patch 2.2.1.1.
                                  • Updated: 2.2.1.1.  
- 
 1) Updated: 
 P-MOD 
 XVM
@@ -53,6 +52,8 @@ Garage Masters
 3) Lamp voiceovers will be available later:
 Cultural
 18+  
+
+           
    
 
     </changes>
@@ -69,12 +70,10 @@ Cultural
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.71/version>
+    <version>1.0.71</version>
     <changes>
-Версия #1.0.71 от 23.04.2026:
-
-   • Сборка обновлена для 2.2.1.1
- 
+Версия #1.0.71, от 24.04.2026:
+   • Сборка обновлена для 2.2.1.1.
 1) Обновлено: 
 P-MOD 
 XVM
@@ -83,6 +82,7 @@ WN8 на новых танках Gorilla, Fauteur, Executor
 Мастера в гараже
 3) Впоследствии откроются озвучки лампы:
  Культурные 18+
+                 
 
     </changes>
     <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
