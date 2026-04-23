@@ -3,15 +3,22 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.70</version>
+    <version>1.0.71</version>
                               
     <changes>
-Версія #1.0.70, від 22.04.2026:
-                  • Оновлено для патча 2.2.1.0.  
+Версія #1.0.71, від 24.04.2026:
+                  • Оновлено для патча 2.2.1.1.  
                1) Оновлено: 
-                  Відмітка на гарматі 
-                  Всі приціли
-                                   
+                  P-MOD 
+                  XVM
+                  WN8 на нових танках Gorilla, Fauteur, Executor
+               2) Додано:
+                  Майстри в гаражі
+               3) Згодом відкриються озвучки лампи:
+                  Культурні
+                  18+
+
+                       
                      
                         
                          
@@ -19,7 +26,7 @@
             
 
     </changes>
-    <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
+    <forumTheme></forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
     <modsBlackList>
     </modsBlackList>
@@ -32,19 +39,27 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.70</version>
+    <version>1.0.71</version>
     <changes>
-Version #1.0.70, date 22.04.2026:
- • updated: patch 2.2.0.2.
-                                 • Updated: 2.2.1.0.  
- 
+Version #1.0.71, date 24.04.2026:
+ • updated: patch 2.2.1.1.
+                                 • Updated: 2.2.1.1.  
 1) Updated: 
-Mark on the gun
-  
+P-MOD 
+XVM
+WN8 on new tanks Gorilla, Fauteur, Executor
+2) Added:
+Garage Masters
+3) Lamp voiceovers will be available later:
+Cultural
+18+  
+
+
+           
    
 
     </changes>
-    <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
+    <forumTheme></forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
     <modsBlackList>
     </modsBlackList>
@@ -57,17 +72,22 @@ Mark on the gun
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.70</version>
+    <version>1.0.71</version>
     <changes>
-Версия #1.0.70, от 22.04.2026:
-
-   • Сборка обновлена для 2.2.1.0.
- 
-1) Обновлено: Отметка на стволе
-              Все прицели   
+Версия #1.0.71, от 24.04.2026:
+   • Сборка обновлена для 2.2.1.1.
+1) Обновлено: 
+P-MOD 
+XVM
+WN8 на новых танках Gorilla, Fauteur, Executor
+2) Добавлено:
+Мастера в гараже
+3) Впоследствии откроются озвучки лампы:
+ Культурные 18+
+                 
 
     </changes>
-    <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
+    <forumTheme></forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
     <modsBlackList>
     </modsBlackList>
