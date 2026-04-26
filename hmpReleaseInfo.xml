@@ -3,22 +3,15 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.71</version>
+    <version>1.0.72</version>
                               
     <changes>
-Версія #1.0.71, від 24.04.2026:
+Версія #1.0.72, від 26.04.2026:
                   • Оновлено для патча 2.2.1.1.  
-               1) Оновлено: 
-                  P-MOD 
-                  XVM
-                  WN8 на нових танках Gorilla, Fauteur, Executor
-               2) Додано:
-                  Майстри в гаражі
-               3) Згодом відкриються озвучки лампи:
-                  Культурні
-                  18+
-
-                     
+               1) Додано: 
+                  Менеджер озвучок
+                  Звичайна 
+                  18+ від діда Артема та ЗісІс ХАТА         
                         
                          
             
@@ -38,21 +31,15 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.71</version>
+    <version>1.0.72/version>
     <changes>
-Version #1.0.71, date 24.04.2026:
+Version #1.0.72 date 26.04.2026:
  • updated: patch 2.2.1.1.
                                  • Updated: 2.2.1.1.  
-1) Updated: 
-P-MOD 
-XVM
-WN8 on new tanks Gorilla, Fauteur, Executor
-2) Added:
-Garage Masters
-3) Lamp voiceovers will be available later:
-Cultural
-18+  
-
+1) Added: 
+Voiceover Manager
+Normal 
+18+ from grandfather Artem and ZisIs KHATA
            
    
 
@@ -70,19 +57,14 @@ Cultural
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.71</version>
+    <version>1.0.72</version>
     <changes>
-Версия #1.0.71, от 24.04.2026:
+Версия #1.0.72, от 26.04.2026:
    • Сборка обновлена для 2.2.1.1.
-1) Обновлено: 
-P-MOD 
-XVM
-WN8 на новых танках Gorilla, Fauteur, Executor
-2) Добавлено:
-Мастера в гараже
-3) Впоследствии откроются озвучки лампы:
- Культурные 18+
-                 
+1) Добавлено: 
+Менеджер озвучок
+Обычная 
+18+ от деда Артема и Зисис ХАТА                 
 
     </changes>
     <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
