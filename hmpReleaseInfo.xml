@@ -3,17 +3,18 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.72</version>
+    <version>1.0.73</version>
                               
     <changes>
-Версія #1.0.72, від 26.04.2026:
-                  • Оновлено для патча 2.2.1.1.  
-               1) Додано: 
-                  Менеджер озвучок
-                  Звичайна 
-                  18+ від діда Артема та ЗісІс ХАТА   
-                       
-                     
+Версія #1.0.73, від 01.05.2026:
+                  • Оновлено для патча 2.2.1.2.  
+             1) Оновлено:
+                  Шкурки ( зони пробивань )
+                  Налаштування модів в модифікаторі,
+                  по ALT або при наведенні
+             1.2) Кольорові іконки танків
+             1.3) Панель пересувної шкоди, для стрімерів
+                  ТікТоку                     
                         
                          
             
@@ -33,15 +34,18 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.72</version>
+    <version>1.0.73</version>
     <changes>
-Version #1.0.72, date 26.04.2026:
- • updated: patch 2.2.0.0.
-                                 • Updated: 2.2.1.1.  
-1) Added: 
-Voiceover Manager
-Normal 
-18+ from grandfather Artem and ZisIs KHATA
+Version #1.0.73 date 01.05.2026:
+ • updated: patch 2.2.1.2.
+                                 • Updated: 2.2.1.2  
+1) Updated:
+Skins ( penetration zones )
+Mod settings in the modifier,
+by ALT or on hover
+1.2) Colored tank icons
+1.3) Mobile damage panel, for streamers
+TikTok
 
 
            
@@ -61,15 +65,18 @@ Normal
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.72</version>
+    <version>1.0.73</version>
     <changes>
-Версия #1.0.72, от 26.04.2026:
-   • Сборка обновлена для 2.2.1.1.
-1) Добавлено: 
-Менеджер озвучок
-Обычная 
-18+ от деда Артема и Зисис ХАТА
-                 
+Версия #1.0.73, от 01.05.2026:
+   • Сборка обновлена для 2.2.1.2.
+
+1) Обновлено:
+Шкурки (зоны пробивок)
+Настройка модов в модификаторе,
+ по ALT или при наведении
+1.2) Цветные иконки танков
+1.3) Панель передвижного вреда, для стримеров
+ТикТоку                 
 
     </changes>
     <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
