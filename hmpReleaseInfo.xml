@@ -3,18 +3,15 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.73</version>
+    <version>1.0.75</version>
                               
     <changes>
-Версія #1.0.73, від 01.05.2026:
-                  • Оновлено для патча 2.2.1.2.  
+Версія #1.0.75, від 14.05.2026:
+                  • Оновлено для патча 2.2.1.3.  
              1) Оновлено:
-                  Шкурки ( зони пробивань )
-                  Налаштування модів в модифікаторі,
-                  по ALT або при наведенні
-             1.2) Кольорові іконки танків
-             1.3) Панель пересувної шкоди, для стрімерів
-                  ТікТоку                     
+                  Фіолетові дерева та кущі
+                  Автозбір ПСА
+                  Приціл подвійне коло
                         
                          
             
@@ -34,19 +31,15 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.73</version>
+    <version>1.0.75</version>
     <changes>
-Version #1.0.73 date 01.05.2026:
- • updated: patch 2.2.1.2.
-                                 • Updated: 2.2.1.2  
+Version #1.0.75 date 14.05.2026:
+ • updated: patch 2.2.1.3.
+                                 • Updated: 2.2.1.3  
 1) Updated:
-Skins ( penetration zones )
-Mod settings in the modifier,
-by ALT or on hover
-1.2) Colored tank icons
-1.3) Mobile damage panel, for streamers
-TikTok
-
+Purple Trees and Shrubs
+PSA Auto Assembly
+Double Circle Sight
 
            
    
@@ -65,18 +58,15 @@ TikTok
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.73</version>
+    <version>1.0.75</version>
     <changes>
-Версия #1.0.73, от 01.05.2026:
-   • Сборка обновлена для 2.2.1.2.
+Версия #1.0.75, от 14.05.2026:
+   • Сборка обновлена для 2.2.1.3.
 
 1) Обновлено:
-Шкурки (зоны пробивок)
-Настройка модов в модификаторе,
- по ALT или при наведении
-1.2) Цветные иконки танков
-1.3) Панель передвижного вреда, для стримеров
-ТикТоку                 
+Фиолетовые деревья и кустарники
+Автосбор ПСА
+Прицел двойной круг          
 
     </changes>
     <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
