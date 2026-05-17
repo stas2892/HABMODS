@@ -3,22 +3,26 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.76version>
+    <version>1.0.76</version>
                               
     <changes>
 Версія #1.0.76, від 17.05.2026:
                   • Оновлено для патча 2.2.1.3.  
-             1) Оновлено:
+               1) Оновлено:
                   Кольорові іконки танків в бою
                   Виправлені баги завантаження 
                   МАП з освітленням ( не ігровим )
-                  Виправлено баги в 3х модах мап!                        
+                  Виправлено баги в 3х модах мап!  
+
+                       
+                     
+                        
                          
             
             
 
     </changes>
-    <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
+    <forumTheme></forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
     <modsBlackList>
     </modsBlackList>
@@ -33,19 +37,21 @@
     <enabled>true</enabled>
     <version>1.0.76</version>
     <changes>
-Version #1.0.76 date 17.05.2026:
- • updated: patch 2.2.1.3.
-                                 • Updated: 2.2.1.3  
+Version #1.0.76, date 17.05.2026:
+ • updated: patch 2.1.1.1.
+                                 • Updated: 2.2.1.3.  
 1) Updated:
 Colored icons of tanks in battle
 Fixed loading bugs 
 MAP from education (not gaming)
 Fixed bugs in 3 map modes!
+
+
            
    
 
     </changes>
-    <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
+    <forumTheme></forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
     <modsBlackList>
     </modsBlackList>
@@ -62,15 +68,15 @@ Fixed bugs in 3 map modes!
     <changes>
 Версия #1.0.76, от 17.05.2026:
    • Сборка обновлена для 2.2.1.3.
-
 1) Обновлено:
 Цветные иконки танков в бою
 Исправлены баги загрузки 
 МАП от образования (не игровым)
 Исправлены баги в 3х режимах карты!
+                 
 
     </changes>
-    <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
+    <forumTheme></forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
     <modsBlackList>
     </modsBlackList>
