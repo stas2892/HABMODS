@@ -3,16 +3,16 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.75</version>
+    <version>1.0.76version>
                               
     <changes>
-Версія #1.0.75, від 14.05.2026:
+Версія #1.0.76, від 17.05.2026:
                   • Оновлено для патча 2.2.1.3.  
              1) Оновлено:
-                  Фіолетові дерева та кущі
-                  Автозбір ПСА
-                  Приціл подвійне коло
-                        
+                  Кольорові іконки танків в бою
+                  Виправлені баги завантаження 
+                  МАП з освітленням ( не ігровим )
+                  Виправлено баги в 3х модах мап!                        
                          
             
             
@@ -31,16 +31,16 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.75</version>
+    <version>1.0.76</version>
     <changes>
-Version #1.0.75 date 14.05.2026:
+Version #1.0.76 date 17.05.2026:
  • updated: patch 2.2.1.3.
                                  • Updated: 2.2.1.3  
 1) Updated:
-Purple Trees and Shrubs
-PSA Auto Assembly
-Double Circle Sight
-
+Colored icons of tanks in battle
+Fixed loading bugs 
+MAP from education (not gaming)
+Fixed bugs in 3 map modes!
            
    
 
@@ -58,15 +58,16 @@ Double Circle Sight
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.75</version>
+    <version>1.0.76</version>
     <changes>
-Версия #1.0.75, от 14.05.2026:
+Версия #1.0.76, от 17.05.2026:
    • Сборка обновлена для 2.2.1.3.
 
 1) Обновлено:
-Фиолетовые деревья и кустарники
-Автосбор ПСА
-Прицел двойной круг          
+Цветные иконки танков в бою
+Исправлены баги загрузки 
+МАП от образования (не игровым)
+Исправлены баги в 3х режимах карты!
 
     </changes>
     <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
