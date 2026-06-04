@@ -3,17 +3,18 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.77</version>
+    <version>1.0.78</version>
                               
     <changes>
-Версія #1.0.77, від 03.06.2026:
+Версія #1.0.78, від 05.06.2026:
                   • Оновлено для патча 2.3.0.0.  
                1) Оновлено:
-                  ХВМ
+                  Статистика WN8 без ХВМ
+                  Автозбір ПСА
                2) Відкрито:
                   Менеджер озвучок
-                  Сирена арти
-                  блокування АГЛ мови екіпажу
+                  Озвучки лампочки звичайні
+                  Озвучки 18+
                        
                      
                         
@@ -35,18 +36,18 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.77</version>
+    <version>1.0.78</version>
     <changes>
-Version #1.0.77, date 03.06.2026:
+Version #1.0.78, date 05.06.2026:
  • updated: patch 2.3.0.0.
                                  • Updated: 2.3.0.0.  
 1) Updated:
-XVM
+Statistics WN8 without XVM
+Auto-assembly PSA
 2) Opened:
 Voiceover Manager
-Siren Arti
-AGL Crew Language Blocking
-           
+Voiceovers of ordinary light bulbs
+Voiceovers 18+           
    
 
     </changes>
@@ -63,17 +64,19 @@ AGL Crew Language Blocking
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.77</version>
+    <version>1.0.78</version>
     <changes>
-Версия #1.0.77, от 03.06.2026:
+Версия #1.0.78, от 05.06.2026:
    • Сборка обновлена для 2.3.0.0.
 
 1) Обновлено:
-ХВМ
+Статистика WN8 без ХВМ
+Автосбор ПСА
 2) Открыто:
 Менеджер озвучок
-Сирена арты
-блокировка АГЛ языка экипажа
+Озвучки лампочки обычные
+Озвучки 18+
+
     </changes>
     <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
