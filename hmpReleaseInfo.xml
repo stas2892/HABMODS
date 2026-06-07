@@ -3,18 +3,16 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.78</version>
+    <version>1.0.79</version>
                               
     <changes>
-Версія #1.0.78, від 05.06.2026:
+Версія #1.0.79, від 08.06.2026:
                   • Оновлено для патча 2.3.0.0.  
                1) Оновлено:
-                  Статистика WN8 без ХВМ
-                  Автозбір ПСА
-               2) Відкрито:
-                  Менеджер озвучок
-                  Озвучки лампочки звичайні
-                  Озвучки 18+
+                  Тактичні місця на мапах
+               2) Додано:
+                  Основний калібир з перемиканям
+                  на різні образи
                        
                      
                         
@@ -36,18 +34,16 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.78</version>
+    <version>1.0.79</version>
     <changes>
-Version #1.0.78, date 05.06.2026:
+Version #1.0.79, date 08.06.2026:
  • updated: patch 2.3.0.0.
                                  • Updated: 2.3.0.0.  
 1) Updated:
-Statistics WN8 without XVM
-Auto-assembly PSA
-2) Opened:
-Voiceover Manager
-Voiceovers of ordinary light bulbs
-Voiceovers 18+           
+Tactical locations on maps
+2) Added:
+Basic caliber with switching
+to different images     
    
 
     </changes>
@@ -64,19 +60,16 @@ Voiceovers 18+
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.78</version>
+    <version>1.0.79</version>
     <changes>
-Версия #1.0.78, от 05.06.2026:
+Версия #1.0.79, от 08.06.2026:
    • Сборка обновлена для 2.3.0.0.
 
 1) Обновлено:
-Статистика WN8 без ХВМ
-Автосбор ПСА
-2) Открыто:
-Менеджер озвучок
-Озвучки лампочки обычные
-Озвучки 18+
-
+Тактические места на картах
+2) Добавлено:
+Основной калибирь с переключением
+на разные образы
     </changes>
     <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
