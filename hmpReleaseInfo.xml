@@ -3,18 +3,14 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.79</version>
+    <version>1.0.80</version>
                               
     <changes>
-Версія #1.0.79, від 08.06.2026:
+Версія #1.0.80, від 09.06.2026:
                   • Оновлено для патча 2.3.0.0.  
                1) Оновлено:
-                  Тактичні місця на мапах
-               2) Додано:
-                  Основний калібир з перемиканям
-                  на різні образи
-                  Озвучку: Half-Life
-                  
+                  ПОМІЧНИК СТАЛЕВОГО МИСЛИВЦЯ
+                                   
                        
                      
                         
@@ -36,17 +32,13 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.79</version>
+    <version>1.0.80</version>
     <changes>
-Version #1.0.79, date 08.06.2026:
+Version #1.0.80, date 09.06.2026:
  • updated: patch 2.3.0.0.
                                  • Updated: 2.3.0.0.  
 1) Updated:
-Tactical locations on maps
-2) Added:
-Basic caliber with switching
-to different images 
-Voice acting: Half-Life    
+STEEL HUNTER'S ASSISTANT
    
 
     </changes>
@@ -63,17 +55,13 @@ Voice acting: Half-Life
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.79</version>
+    <version>1.0.80</version>
     <changes>
-Версия #1.0.79, от 08.06.2026:
+Версия #1.0.80, от 09.06.2026:
    • Сборка обновлена для 2.3.0.0.
 
 1) Обновлено:
-Тактические места на картах
-2) Добавлено:
-   Основной калибирь с переключением
-   на разные образы
-   Озвучку: Half-Life
+Помощник стального охотника
 
     </changes>
     <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
