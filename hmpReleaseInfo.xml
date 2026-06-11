@@ -3,11 +3,11 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.80</version>
+    <version>1.0.81</version>
                               
     <changes>
-Версія #1.0.80, від 09.06.2026:
-                  • Оновлено для патча 2.3.0.0.  
+Версія #1.0.81, від 11.06.2026:
+                  • Оновлено для патча 2.3.0.1.  
                1) Оновлено:
                   ПОМІЧНИК СТАЛЕВОГО МИСЛИВЦЯ
                                    
@@ -32,11 +32,11 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.80</version>
+    <version>1.0.81</version>
     <changes>
-Version #1.0.80, date 09.06.2026:
- • updated: patch 2.3.0.0.
-                                 • Updated: 2.3.0.0.  
+Version #1.0.81, date 11.06.2026:
+ • updated: patch 2.3.0.1.
+                                 • Updated: 2.3.0.1.  
 1) Updated:
 STEEL HUNTER'S ASSISTANT
    
@@ -55,10 +55,10 @@ STEEL HUNTER'S ASSISTANT
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.80</version>
+    <version>1.0.81</version>
     <changes>
-Версия #1.0.80, от 09.06.2026:
-   • Сборка обновлена для 2.3.0.0.
+Версия #1.0.81, от 11.06.2026:
+   • Сборка обновлена для 2.3.0.1.
 
 1) Обновлено:
 Помощник стального охотника
