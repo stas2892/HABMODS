@@ -3,18 +3,17 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.82</version>
+    <version>1.0.83</version>
                               
     <changes>
-Версія #1.0.82, від 12.06.2026:
+Версія #1.0.83, від 13.06.2026:
                   • Оновлено для патча 2.3.0.1.  
-               1) Оновлено:
-                  Автоматичний збір ПСА
-                  Білі гусениці
-                  П-МОД
-                  ПОМІЧНИК сталевого мисливця
-               2) Додано:
+                  1) Додано:
                   Озвучка ГЕрлс ( японська )
+                  Більше інформаці пробивання ст.2
+                  Зменшена затримка потрілу з 100мс на 1мс
+                  Прорахунок польоту балістичного снаряду
+                  ( фугас та інші )
                                    
                        
                      
@@ -37,18 +36,17 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.82</version>
+    <version>1.0.83</version>
     <changes>
-Version #1.0.82, date 12.06.2026:
+Version #1.0.83, date 13.06.2026:
  • updated: patch 2.3.0.1.
                                  • Updated: 2.3.0.1.  
-1) Updated:
-Automatic PSA collection
-White caterpillars
-P-MOD
-STEEL HUNTER'S ASSISTANT
-2) Added:
-Girls voice acting (Japanese)
+1) Добавлено:
+   Озвучка ГЭрлс (японская)
+   Больше информации пробивания ст.2
+   Уменьшена задержка потрила со 100мс на 1мс
+   Просчет полета баллистического снаряда
+   (фугас и другие)
    
 
     </changes>
@@ -65,18 +63,17 @@ Girls voice acting (Japanese)
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.82</version>
+    <version>1.0.83</version>
     <changes>
-Версия #1.0.82, от 12.06.2026:
+Версия #1.0.83, от 13.06.2026:
    • Сборка обновлена для 2.3.0.1.
 
-1) Обновлено:
-Автоматический сбор ПСА
-Белые гусеницы
-П-МОД
-Помощник стального охотника
-2) Добавлено:
-Озвучка ГЭрлс (японская)
+1) Added:
+Voiceover of Girls (Japanese)
+More information about piercing stage 2
+Reduced the delay of the shot from 100ms to 1ms
+Miscalculation of the flight of a ballistic projectile
+(landmine and others)
 
     </changes>
     <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
