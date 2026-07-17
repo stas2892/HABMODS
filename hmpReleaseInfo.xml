@@ -3,17 +3,13 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.85</version>
+    <version>1.0.86</version>
                               
     <changes>
-Версія #1.0.85, від 16.07.2026:
+Версія #1.0.86, від 17.07.2026:
                   • Оновлено для патча 2.3.1.0.  
-                  1) Оновлено:
-ПРИБРАНІ БАГИ В ПРИЦІЛІ:
-Просадка ФПС ( П-МОД оновив )
-                     Збір Пса
-                     Менеджер риплеїв
-                     Менеджер пробиття                       
+1) Додано: Відображення виконання ГОРНИЛО 
+                                         
                      
                         
                          
@@ -34,17 +30,13 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.85</version>
+    <version>1.0.86</version>
     <changes>
-Version #1.0.85, date 16.07.2026:
+Version #1.0.86, date 17.07.2026:
  • updated: patch 2.3.1.0.
-                                 • Updated: 2.3.1.0.  
-1) Обновлено:
-УБРАНЫЕ БАГИ В ПРИЦЕЛЕ:
-Просадка ФПС (П-МОД обновил)
-Сбор Пса
-Менеджер риплеев
-Менеджер пробития
+                                 • Updated: 2.3.1.0.
+  
+1) Добавлено: Отображение исполнения ГОРНИЛО
 
     </changes>
     <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
@@ -60,17 +52,12 @@ Version #1.0.85, date 16.07.2026:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.85</version>
+    <version>1.0.86</version>
     <changes>
-Версия #1.0.85, от 16.07.2026:
+Версия #1.0.86, от 17.07.2026:
    • Сборка обновлена для 2.3.1.0.
 
-1) Updated:
-SIGHT BUGS FIXED:
-FPS drops (P-MOD updated)
-Dog Collection
-Replay Manager
-Penetration Manager
+1) Added: Display of Crucible completion status.
 
     </changes>
     <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
