@@ -3,13 +3,15 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.86</version>
+    <version>1.0.87</version>
                               
     <changes>
-Версія #1.0.86, від 17.07.2026:
+Версія #1.0.87, від 23.07.2026:
                   • Оновлено для патча 2.3.1.0.  
-1) Додано: Відображення виконання ГОРНИЛО 
-                                         
+1) Оновлено: Горнило під нові боєві завдання!
+             П-МОД під патч 23.07.2023
+             ХВМ  під патч 23.07.2023
+                        
                      
                         
                          
@@ -30,13 +32,15 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.86</version>
+    <version>1.0.87</version>
     <changes>
-Version #1.0.86, date 17.07.2026:
+Version #1.0.87, date 23.07.2026:
  • updated: patch 2.3.1.0.
                                  • Updated: 2.3.1.0.
   
-1) Добавлено: Отображение исполнения ГОРНИЛО
+1) Обновлено: Горнило под новые боевые задания!
+П-МОД под патч 23.07.2023
+ХВМ под патч 23.07.2023
 
     </changes>
     <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
@@ -52,12 +56,14 @@ Version #1.0.86, date 17.07.2026:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.86</version>
+    <version>1.0.87</version>
     <changes>
-Версия #1.0.86, от 17.07.2026:
+Версия #1.0.87, от 23.07.2026:
    • Сборка обновлена для 2.3.1.0.
 
-1) Added: Display of Crucible completion status.
+1) Updated: The Crucible for new combat missions!
+P-MOD for the July 23, 2023 patch
+XVM for the July 23, 2023 patch
 
     </changes>
     <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
