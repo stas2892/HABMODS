@@ -3,15 +3,15 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.87</version>
+    <version>1.0.89</version>
                               
     <changes>
-Версія #1.0.87, від 23.07.2026:
-                  • Оновлено для патча 2.3.1.0.  
-1) Оновлено: Горнило під нові боєві завдання!
-             П-МОД під патч 23.07.2023
-             ХВМ  під патч 23.07.2023
-                        
+Версія #1.0.89, від 17.08.2026:
+                  • Оновлено для патча 2.3.1.2.  
+1) Оновлено: Градус пробивання броні
+2) Додано: Розширений чорний список
+           Старий гараж інфо + екіпаж + ТТХ 
+           ( перемикання в гаражі "CTRL+I" )                                                 
                      
                         
                          
@@ -32,15 +32,16 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.87</version>
+    <version>1.0.89</version>
     <changes>
-Version #1.0.87, date 23.07.2026:
- • updated: patch 2.3.1.0.
-                                 • Updated: 2.3.1.0.
+Version #1.0.89, date 17.08.2026:
+ • updated: patch 2.3.1.2.
+                                 • Updated: 2.3.1.1.
   
-1) Обновлено: Горнило под новые боевые задания!
-П-МОД под патч 23.07.2023
-ХВМ под патч 23.07.2023
+1) Обновлено: Градус пробивания брони
+2) Добавлено: Расширенный черный список
+Старый гараж инфо + экипаж + ТТХ 
+( переключение в гараже "CTRL+I" )
 
     </changes>
     <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
@@ -56,15 +57,15 @@ Version #1.0.87, date 23.07.2026:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.87</version>
+    <version>1.0.89</version>
     <changes>
-Версия #1.0.87, от 23.07.2026:
-   • Сборка обновлена для 2.3.1.0.
+Версия #1.0.89, от 17.08.2026:
+   • Сборка обновлена для 2.3.1.2.
 
-1) Updated: The Crucible for new combat missions!
-P-MOD for the July 23, 2023 patch
-XVM for the July 23, 2023 patch
-
+1) Updated: Armor penetration angle
+2) Added: Extended blacklist
+Old garage info + crew + stats
+( toggle in garage: "CTRL+I" )
     </changes>
     <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
