@@ -3,17 +3,14 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>1.0.89</version>
+    <version>1.0.90</version>
                               
     <changes>
-Версія #1.0.89, від 17.08.2026:
-                  • Оновлено для патча 2.3.1.2.  
-1) Оновлено: Градус пробивання броні
-2) Додано: Розширений чорний список
-           Старий гараж інфо + екіпаж + ТТХ 
-           ( перемикання в гаражі "CTRL+I" )                                                 
-                     
-                        
+Версія #1.0.90, від 20.08.2026:
+                  • Оновлено для патча 2.3.1.3.  
+1) Оновлено:  P-MOD
+              XVM
+              Відмітка в бою                       
                          
             
             
@@ -32,16 +29,16 @@
 
   <en>
     <enabled>true</enabled>
-    <version>1.0.89</version>
+    <version>1.0.90</version>
     <changes>
-Version #1.0.89, date 17.08.2026:
- • updated: patch 2.3.1.2.
-                                 • Updated: 2.3.1.1.
+Version #1.0.90, date 20.08.2026:
+ • updated: patch 2.3.1.3.
+                                 • Updated: 2.3.1.3.
   
-1) Обновлено: Градус пробивания брони
-2) Добавлено: Расширенный черный список
-Старый гараж инфо + экипаж + ТТХ 
-( переключение в гараже "CTRL+I" )
+1) Обновлено: P-MOD
+XVM
+Отметка в бою
+
 
     </changes>
     <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
@@ -57,15 +54,15 @@ Version #1.0.89, date 17.08.2026:
 
   <ru>
     <enabled>true</enabled>
-    <version>1.0.89</version>
+    <version>1.0.90</version>
     <changes>
-Версия #1.0.89, от 17.08.2026:
-   • Сборка обновлена для 2.3.1.2.
+Версия #1.0.90, от 20.08.2026:
+   • Сборка обновлена для 2.3.1.3.
 
-1) Updated: Armor penetration angle
-2) Added: Extended blacklist
-Old garage info + crew + stats
-( toggle in garage: "CTRL+I" )
+1) Updated: P-MOD
+XVM
+In-battle mark
+
     </changes>
     <forumTheme>https://t.me/+JwTyc-vdEjljZDdi/</forumTheme>
     <downloadLink>https://habwotmods.pp.ua/</downloadLink>
